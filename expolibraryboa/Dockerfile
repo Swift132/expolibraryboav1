@@ -11,7 +11,6 @@ COPY ./requirements.txt requirements.txt
 RUN pip install -r requirements.txt
 
 # Copiar o conteúdo do diretório atual para o diretório de trabalho no contêiner
-COPY ./app ./app
 
 COPY ./run.py ./run.py
 # Comando para rodar a aplicação

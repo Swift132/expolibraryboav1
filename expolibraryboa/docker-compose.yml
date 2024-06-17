@@ -8,6 +8,8 @@ services:
     ports:
       - 5000:5000
       - 8000:8000
+    volumes:
+      - ./app:/app
     networks:
       - expolibrary
     command: python3 run.py

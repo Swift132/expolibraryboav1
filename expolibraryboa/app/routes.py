@@ -57,7 +57,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLI.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LII - 2ª série, 52",
@@ -66,7 +67,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLII1.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LIII - 2ª série, 53 - 1º Parte",
@@ -75,7 +77,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LIII - 2ª série, 53 - 2º Parte",
@@ -93,7 +96,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIV.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LV - 2ª série, 55",
@@ -102,7 +106,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLV.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LVI- 2ª série, 56",
@@ -111,7 +116,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLVI.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LVII - 2ª série, 57",
@@ -120,7 +126,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLVII.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LVIII - 2ª série, 58",
@@ -129,7 +136,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLVIII.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LIX - 2ª série, 59",
@@ -138,7 +146,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIX.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LX - 2ª série, 60",
@@ -147,7 +156,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLX.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXI - 2ª série, 61",
@@ -156,7 +166,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXI.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXII - 2ª série, 62",
@@ -165,7 +176,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXII.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXV - 2ª série, 65",
@@ -174,7 +186,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXV.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXVI - 2ª série, 66",
@@ -183,7 +196,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXVI.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXVII - 2ª série, 67",
@@ -192,7 +206,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXVII.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXVIII - 2ª série, 68",
@@ -201,7 +216,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXVIII.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXVIX, 69",
@@ -210,7 +226,7 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 91",
@@ -311,7 +327,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "logotipo.png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen531.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 53(2)",
@@ -321,7 +337,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "logotipo.png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen532.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 54(1)",
@@ -331,7 +347,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "logotipo.png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen541.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 54(2)",
@@ -341,7 +357,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "logotipo.png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen542.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 55(1)",
@@ -351,7 +367,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "logotipo.png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen551.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 55(2)",
@@ -361,7 +377,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "logotipo.png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen552.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 56(1)",
@@ -371,7 +387,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "logotipo.png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen561.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 56(2)",
@@ -381,7 +397,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "logotipo.png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen562.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 57(1)",
@@ -391,7 +407,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "https://pub-b36871d66d0d4bb883f07184ee48c5b6.r2.dev/livros%2Fanalesdeljardin%20(1).png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen571.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 57(2)",
@@ -401,7 +417,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "https://pub-b36871d66d0d4bb883f07184ee48c5b6.r2.dev/livros%2Fanalesdeljardin%20(1).png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen572.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 58(1)",
@@ -411,7 +427,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "https://pub-b36871d66d0d4bb883f07184ee48c5b6.r2.dev/livros%2Fanalesdeljardin%20(1).png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen581.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 58(2)",
@@ -421,7 +437,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "https://pub-b36871d66d0d4bb883f07184ee48c5b6.r2.dev/livros%2Fanalesdeljardin%20(1).png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen582.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 59(1)",
@@ -431,7 +447,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "https://pub-b36871d66d0d4bb883f07184ee48c5b6.r2.dev/livros%2Fanalesdeljardin%20(1).png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen591.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 59(2)",
@@ -441,7 +457,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "https://pub-b36871d66d0d4bb883f07184ee48c5b6.r2.dev/livros%2Fanalesdeljardin%20(1).png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen592.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 60(1)",
@@ -451,17 +467,17 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "https://pub-b36871d66d0d4bb883f07184ee48c5b6.r2.dev/livros%2Fanalesdeljardin%20(1).png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen601.jpg"
     },
     {
-        "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 61(1)",
+        "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 60(2)",
         "Autor": "Manuel Laínz e Diana Wrigley De Basanta",
         "Ano": 2002,
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "https://pub-b36871d66d0d4bb883f07184ee48c5b6.r2.dev/livros%2Fanalesdeljardin%20(1).png"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen601.jpg"
     },
     {
         "Titulo": "Catálogo de CD ROM'S",
@@ -488,7 +504,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennicaNo106.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 107",
@@ -497,7 +514,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennicaNo107.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 108",
@@ -506,7 +524,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennicaNo108.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 109",
@@ -515,7 +534,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennicaNo109.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 120",
@@ -524,7 +544,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica120.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 121",
@@ -533,7 +554,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica121.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 122",
@@ -542,7 +564,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica122.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 123",
@@ -551,7 +574,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica123.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 124",
@@ -560,7 +584,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica124.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 125",
@@ -569,7 +594,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica125.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 126",
@@ -578,7 +604,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica126.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 127",
@@ -587,7 +614,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica127.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 128",
@@ -596,7 +624,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica128.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 129",
@@ -605,7 +634,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica129.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 130",
@@ -614,16 +644,18 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica130.jpg"
     },
     {
-        "Titulo": "Acta Botanica Fennica - No. 132",
+        "Titulo": "Acta Botanica Fennica - No. 131",
         "Autor": "Timo Koponen (ed.)",
         "Ano": 1985,
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica131.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 133",
@@ -632,7 +664,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica133.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - 142",
@@ -641,7 +674,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica142.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - 145",
@@ -650,7 +684,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica145.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - 146",
@@ -659,7 +694,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica146.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - 147",
@@ -668,7 +704,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica147.jpg"
     },
     {
         "Titulo": "Annales Botanici Fennici - Vol. 29 no. 2",
@@ -677,7 +714,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnnalesBotaniciFenniciVol29No2.jpg"
     },
     {
         "Titulo": "Annales Botanici Fennici - Vol. 29 no. 3",
@@ -686,7 +724,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnnalesBotaniciFenniciVol29No3.jpg"
     },
     {
         "Titulo": "Annales Botanici Fennici - Vol. 29 no. 4",
@@ -695,7 +734,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnnalesBotaniciFenniciVol29No4.jpg"
     },
     {
         "Titulo": "Annales Botanici Fennici - Vol. 30 no. 1",
@@ -704,7 +744,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnnalesBotaniciFenniciVol30No1.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - 148",
@@ -713,7 +754,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica148.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - 150",
@@ -722,7 +764,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica150.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - 153",
@@ -731,7 +774,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennica153.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica No. 169",
@@ -740,7 +784,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennicaNo169.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica  No. 174",
@@ -749,7 +794,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennicaNo174.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica  No. 177",
@@ -758,7 +804,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActaBotanicaFennicaNo177.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 35 No. 5 & 6",
@@ -884,7 +931,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid611.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 61 (2)",
@@ -893,7 +941,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid612.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 62 (1)",
@@ -902,7 +951,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid621.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 62 (2)",
@@ -911,7 +961,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid622.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 63 (1)",
@@ -920,7 +971,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid631.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 63 (2)",
@@ -929,7 +981,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid632.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 64 (1)",
@@ -938,7 +991,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid641.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 64 (2)",
@@ -947,7 +1001,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid642.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 65 (1)",
@@ -956,7 +1011,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid651.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 65 (2)",
@@ -965,7 +1021,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid652.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 66 S1",
@@ -974,7 +1031,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid66S1.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 66 (1)",
@@ -983,7 +1041,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid661.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 66 (2)",
@@ -992,7 +1051,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid662.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 67 (1)",
@@ -1001,7 +1061,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Plastificado"
+        "Material": "Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid671.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 67 (2)",
@@ -1010,7 +1071,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid672.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 68 (1)",
@@ -1019,7 +1081,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
-        "Material": "Plastificado"
+        "Material": "Plastificado",
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid681.jpg"
     },
     {
         "Titulo": "Actas Del V. Simposio Iberico Del Bentos Marino - Tomo I",
@@ -1028,7 +1091,8 @@ items = [
         "Categoria": "Fisica/Química",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActasDelVSimposioIbericoDelBentosMarinoTomoI.jpg"
     },
     {
         "Titulo": "Actas Del V. Simposio Iberico Del Bentos Marino - Tomo II",
@@ -1037,7 +1101,8 @@ items = [
         "Categoria": "Fisica/Química",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ActasDelVSimposioIbericoDelBentosMarinoTomoII.jpg"
     },
     {
         "Titulo": "Matemática Cálculo Diferencial em IR - 2ª edição",
@@ -1055,7 +1120,8 @@ items = [
         "Categoria": "Química",
         "Sub_Categoria": "Bioquímica",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BioquimicaEdicaoRevista.jpg"
     },
     {
         "Titulo": "Química - 5ª edição",
@@ -1082,7 +1148,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BiologiaCelularEMolecular.jpg"
     },
     {
         "Titulo": "Análise Matemática Primitivas Integrais Aplicações Exercícios resolvidos e propostos - 3º Volume",
@@ -1091,7 +1158,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AnaliseMatematica.jpg"
     },
     {
         "Titulo": "Cálculo Matricial Volume II - Exemplos e Aplicações",
@@ -1154,7 +1222,8 @@ items = [
         "Categoria": "Ciência",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ACienciaEOsSeusInimigos.jpg"
     },
     {
         "Titulo": "Os Ursinhos Folgazões Festa de Anos Surpresa",
@@ -1181,7 +1250,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Francês e Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AliBabaEOsQuarentaLadroes.jpg"
     },
     {
         "Titulo": "Ciclo do Azeite",
@@ -1253,7 +1323,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BiologiaUmAnoDeCiencia.jpg"
     },
     {
         "Titulo": "Relação da Primeira Viagem Em Torno do Mundo",
@@ -1262,7 +1333,8 @@ items = [
         "Categoria": "NaN",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Plastificado"
+        "Material": "Plastificado",
+        "Imagem": "/livros/AntonioPigafettaRelacaoDaPrimeiraViagemEmTornoDoMundo.jpg"
     },
     {
         "Titulo": "Atlantida",
@@ -1271,7 +1343,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Atlantida.jpg"
     },
     {
         "Titulo": "Plantas dos Açores",
@@ -1334,7 +1407,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AsAtitudesFaceAoAmbienteEmRegioesPerifericas.jpg"
     },
     {
         "Titulo": "Towards planning of seafloor observatory programs for the MAR region - Proceedings of the II MoMAR Workshop - Arquipélago - Life and Marine Sciences Supplement 3",
@@ -1388,7 +1462,8 @@ items = [
         "Categoria": "Fotografia",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AcoresMagiaeNaturalis.jpg"
     },
     {
         "Titulo": "Boletim",
@@ -1406,7 +1481,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ACulturaSefarditaNoNordesteTransmontano.jpg"
     },
     {
         "Titulo": "The Volcanoes of Azores Islands: a world-class heritage -  example from Terceira, Pico, and Faial Islands",
@@ -1442,7 +1518,8 @@ items = [
         "Categoria": "Panfleto",
         "Sub_Categoria": "Roteiro",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BragancaMunicipio.jpg"
     },
     {
         "Titulo": "Blue Azores",
@@ -1532,7 +1609,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AvesPeixesMamiferos.jpg"
     },
     {
         "Titulo": "Manual Para Segurança na Pesca",
@@ -1550,7 +1628,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ACaravela.jpg"
     },
     {
         "Titulo": "Guia Prático da Biologia da Abelha",
@@ -1559,7 +1638,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Apicultura",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BiologiaDaAbelha.jpg"
     },
     {
         "Titulo": "Charcos Temporários Do Sul de Portugal",
@@ -1667,7 +1747,8 @@ items = [
         "Categoria": "Geografia",
         "Sub_Categoria": "Meteorologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/A Terra Aquece - Arrefeça-a.jpg"
     },
     {
         "Titulo": "O Novo Mundo De Magalhães",
@@ -1685,7 +1766,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Biologia & Sociedade 12.jpg"
     },
     {
         "Titulo": "Biologia e Sociedade número 11",
@@ -1694,7 +1776,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Biologia & Sociedade 11.jpg"
     },
     {
         "Titulo": "Biologia e Sociedade número 10",
@@ -1703,7 +1786,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Biologia & Sociedade 10.jpg"
     },
     {
         "Titulo": "Biologia e Sociedade número 9",
@@ -1712,7 +1796,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Biologia & Sociedade 09.jpg"
     },
     {
         "Titulo": "Biologia e Sociedade número 8",
@@ -1721,7 +1806,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Biologia & Sociedade 08.jpg"
     },
     {
         "Titulo": "Biologia e Sociedade número 5",
@@ -1730,7 +1816,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Biologia & Sociedade Numero 5.jpg"
     },
     {
         "Titulo": "Biologia e Sociedade número 3",
@@ -1739,7 +1826,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Biologia & Sociedade Número 3.jpg"
     },
     {
         "Titulo": "Biologia e Sociedade número 2",
@@ -1748,7 +1836,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Biologia & Sociedade Numero 2.jpg"
     },
     {
         "Titulo": "Biologia e Sociedade Edição Especial",
@@ -1757,7 +1846,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Biologia & Sociedade Edição Especial.jpg"
     },
     {
         "Titulo": "Showbiz culture No. 6",
@@ -1804,7 +1894,8 @@ items = [
         "Categoria": "Enciclopédia",
         "Sub_Categoria": "Biologia marinha",
         "Linguagem": "Português, Inglês e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AsEspeciesMaisPopularesDoMarDePortugal.jpg"
     },
     {
         "Titulo": "Descobrir a Ciência Bricando: Porque é escura a noite? ",
@@ -1831,7 +1922,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AChuvaEOBomTempo.jpg"
     },
     {
         "Titulo": "Sabes porque é que o fogo é vida",
@@ -1849,7 +1941,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ATerraEVida.jpg"
     },
     {
         "Titulo": "Sabes porque é que o ar é vida",
@@ -1930,7 +2023,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AIlhaMisteriosa.jpg"
     },
     {
         "Titulo": "Grandes Clássicos de Aventuras: A Ilha do Tesouro",
@@ -1939,7 +2033,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AIlhaDoTesouro.jpg"
     },
     {
         "Titulo": "O Mistério da Lagarta",
@@ -1957,7 +2052,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BrancaDeNeveEOutrasHistórias.jpg"
     },
     {
         "Titulo": "Matemática Divertida: Explorar os números",
@@ -2101,7 +2197,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Bio Vida.jpg"
     },
     {
         "Titulo": "Eu e a Química - 8º ano ",
@@ -2137,7 +2234,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/A Minha Primeira Enciclopédia.jpg"
     },
     {
         "Titulo": "Bioterra > Parte 1 - 6º Ano",
@@ -2570,7 +2668,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ACabanaDoPaiTomas.jpg"
     },
     {
         "Titulo": "Os talheres mágicos do Titanic: Los cubiertos mágicas del Titanic",
@@ -2643,7 +2742,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Aladino e a Lâmpada maravilhosa.jpg"
     },
     {
         "Titulo": "Peter Pan",
@@ -2670,7 +2770,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/A Tartaruga Azul.jpg"
     },
     {
         "Titulo": "Quero um dinossáurio ",
@@ -2742,7 +2843,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AFloresta.jpg"
     },
     {
         "Titulo": "Dinossauro",
@@ -2878,7 +2980,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/As Viagens de Gulliver.jpg"
     },
     {
         "Titulo": "O lobo e os sete cabritos",
@@ -3050,7 +3153,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Aladdin.jpg"
     },
     {
         "Titulo": "Flora e Fauna Terreste Invasora na Macaronésia: Top 100 nos Açores, Madeira e Canárias, Flora y Fauna Terrestre Invasora en la Macaronesia: Top 100 en Azores, Madeira y Canarias, Invasive Terrestrial Flora & Fauna of Macaronesia: Top 100 in Azores, Madeira and Canaries",
@@ -3122,7 +3226,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Avifauna no Litoral dos Açores.jpg"
     },
     {
         "Titulo": "Plantas Usadas na Medicina Popular",
@@ -3149,7 +3254,8 @@ items = [
         "Categoria": "Ecologia",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Associativismo Ambiental O Caso dos Amigos dos Açores.jpg"
     },
     {
         "Titulo": "Rapinas Belas e Úteis",
@@ -3176,7 +3282,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Briófitos Raros dos Açores & Azorean Rare Bryophytes.jpg"
     },
     {
         "Titulo": "O ordenamento do território nos Açores: política e instrumentos",
@@ -3257,7 +3364,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AzoresIslandToIsland.jpg"
     },
     {
         "Titulo": "Açores, São Miguel: A ilha Verde - Azores, São Miguel: The Green Island",
@@ -3302,7 +3410,8 @@ items = [
         "Categoria": "Biologia e História",
         "Sub_Categoria": "Ecologia e Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+
     },
     {
         "Titulo": "Flora Vascular dos Açores, Prioridades em Conservação - Azorean Vascular Flora Priorities in Conservation",
@@ -3383,7 +3492,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Arquipelago Life and Marine Sciences.jpg"
     },
     {
         "Titulo": "Açores: O império dos Fósseis",
@@ -3402,7 +3512,8 @@ items = [
         "Categoria": "Biologia e História",
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/As Luzes do Príncipe.jpg"
     },
     {
         "Titulo": "Migrações de Aves",
@@ -3420,7 +3531,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/As Plantas Invasoras.jpg"
     },
     {
         "Titulo": "Parque Natural Regional da Plataforma Costeira das Lajes do Pico - Proposta de Implementação",
@@ -3447,7 +3559,8 @@ items = [
         "Categoria": "Turismo",
         "Sub_Categoria": "Turismo Rural",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AreasProtegidaseTurismoConflitoIntransponível.jpg"
     },
     {
         "Titulo": "Proposta de Intervenção Museológica na Gruta do Carvão, Ilha de S. Miguel",
@@ -3474,7 +3587,8 @@ items = [
         "Categoria": "Turismo",
         "Sub_Categoria": "Turismo Rural",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/A Gestão Ambiental no Sector Hoteleiro.jpg"
     },
     {
         "Titulo": "Borboletas dos Açores: Papilionoidea e Sphingoidea",
@@ -3483,7 +3597,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Borboletas dos Açores.jpg"
     },
     {
         "Titulo": "Térmitas dos Açores",
@@ -3528,7 +3643,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Atuns, Bonitos e Cavalas dos Açores.jpg"
     },
     {
         "Titulo": "Turismo e Desenvolvimento Sustentável 1",
@@ -3627,7 +3743,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Arquipelago Life and Marine Sciences Supplement 11.jpg"
     },
     {
         "Titulo": "Catálogo das Plantas Vasculares dos Açores",
@@ -3663,7 +3780,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ACasaDaLuz.jpg"
     },
     {
         "Titulo": "Listagem dos fungos, flora e fauna terrestres dos arquipélagos da Madeira e Selvagens - A list of the terrestrial fungi, flora and fauna of Madeira and Selvagens archipelagos",
@@ -3681,7 +3799,8 @@ items = [
         "Categoria": "História e Geologia",
         "Sub_Categoria": "Meteorologia e Hist. Cultural de Mónaco",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AlbertIDoMonacoAfonsoChavesEAMeterologiaNosAcores.jpg"
     },
     {
         "Titulo": "Os fósseis de Santa Maria (Açores)",
@@ -3753,7 +3872,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Alfonso Olalla and His Family.jpg"
     },
     {
         "Titulo": "Type Specimens of Birds in the American Museum of Natural History: Part 8. Passeriformes",
@@ -3762,7 +3882,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/American Museum Novitates.jpg"
     },
     {
         "Titulo": "The Basal Penguin (Aves: Spenisciformes): Perudyptes Devriesi and a Phylogenetic Evaluation of the Penguin Fossil Record",
@@ -3789,7 +3910,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/As Abelhas dos Açores.jpg"
     },
     {
         "Titulo": "Genealogias de S. Miguel e Santa Maria Volume 1º",
@@ -3934,7 +4056,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Exploring the marine meiofauna of the Azores - Suplemento 11",
@@ -3943,7 +4066,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento11.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. XI - Fasc.III",
@@ -3952,7 +4076,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: The marine fauna and flora of the Açores",
@@ -3961,7 +4086,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento10.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Eleventh international symposium of neuropterology",
@@ -3970,7 +4096,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento9.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Supplemento 8",
@@ -3979,7 +4106,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento8.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Supplemento 7",
@@ -3988,7 +4116,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento7.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Supplemento 5",
@@ -3997,7 +4126,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento5.jpg"
     },
     {
         "Titulo": "Açoreana: The Marine Fauna and Flora of the Azores - Second International Workshop",
@@ -4006,7 +4136,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSuplemento1995.jpg"
     },
     {
         "Titulo": "Açoreana: Centenaire de la Derniere Campagne Oceanographique du Prince Albert de Monaco aux Açores à bord de L'Hirondelle",
@@ -4015,7 +4146,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento1992.jpg"
     },
     {
         "Titulo": "Açoreana: The Marine Fauna and Flora of the Azores - First International Workshop",
@@ -4024,7 +4156,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento1990.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. XI - Fasc. II",
@@ -4033,7 +4166,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascII.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. XI - Fasc. I",
@@ -4042,7 +4176,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascI.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. X - Fasc. IV",
@@ -4051,7 +4186,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. X - Fasc. III",
@@ -4060,7 +4196,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. X - Fasc. II",
@@ -4069,7 +4206,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascII.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. X - Fasc. I",
@@ -4078,7 +4216,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascI.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. IX - Fasc. IV",
@@ -4087,7 +4226,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. IX - Fasc. III",
@@ -4096,7 +4236,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. IX - Fasc. II",
@@ -4105,7 +4246,8 @@ items = [
         "Categoria": "Geologia e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascII.jpg"
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. IX - Fasc. I",
@@ -4114,7 +4256,8 @@ items = [
         "Categoria": "Geologia e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascI.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. VIII - Fasc. IV",
@@ -4123,7 +4266,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIIIFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. VIII - Fasc. III",
@@ -4132,7 +4276,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIIIFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. VIII - Fasc. II",
@@ -4141,7 +4286,8 @@ items = [
         "Categoria": "Geologia e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIIIFascII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. VIII - Fasc. I",
@@ -4150,7 +4296,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIIIFascI.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. VII - Fasc. IV",
@@ -4159,7 +4306,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIIFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. VII - Fasc. III",
@@ -4168,7 +4316,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIIFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. VII - Fasc. II",
@@ -4177,16 +4326,18 @@ items = [
         "Categoria": "Geologia e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIIFascII.jpg"
     },
     {
-        "Titulo": "Açoreana: Vol. VII - Fasc. II",
+        "Titulo": "Açoreana: Vol. VII - Fasc. I",
         "Autor": "Sociedade Afonso Chaves e Associação de Estudos Açoreanos",
         "Ano": 1989,
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIIFascI.jpg"
     },
     {
         "Titulo": "Açoreana: Vo. VI - Fasc. IV",
@@ -4195,7 +4346,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. VI - Fasc. III",
@@ -4204,7 +4356,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. VI - Fasc. II",
@@ -4213,7 +4366,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIFascII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. VI - Fasc.I ",
@@ -4222,7 +4376,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVIFascI.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. V - Fasc. IV",
@@ -4231,7 +4386,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. V - Fasc. III",
@@ -4240,7 +4396,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. V - Fasc. II",
@@ -4249,7 +4406,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVFascII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. V - Fasc. I",
@@ -4258,7 +4416,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolVFascI.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. IV - Fasc. IV",
@@ -4267,7 +4426,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIVFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. IV - Fasc. III",
@@ -4276,7 +4436,8 @@ items = [
         "Categoria": "Geologia e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIVFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. IV - Fasc. II",
@@ -4285,7 +4446,8 @@ items = [
         "Categoria": "Geologia e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIVFascII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. IV - Fasc. I",
@@ -4294,7 +4456,8 @@ items = [
         "Categoria": "Geologia e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Francês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIVFascI.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. III - Fasc. IV",
@@ -4303,7 +4466,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIIIFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. III - Fasc. III",
@@ -4312,7 +4476,8 @@ items = [
         "Categoria": "Geologia e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIIIFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. III - Fasc. II",
@@ -4321,7 +4486,8 @@ items = [
         "Categoria": "Geologia e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIIIFascII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. III - Fasc. I",
@@ -4330,7 +4496,8 @@ items = [
         "Categoria": "Geologia e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIIIFascI.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. II - Fasc. IV",
@@ -4339,7 +4506,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIIFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. II - Fasc. III",
@@ -4348,7 +4516,8 @@ items = [
         "Categoria": "Cultura e Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIIFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. II - Fasc. II",
@@ -4357,7 +4526,8 @@ items = [
         "Categoria": "Cultura e Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIIFascII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. II - Fasc. I",
@@ -4366,7 +4536,8 @@ items = [
         "Categoria": "Cultura e Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIIFascI.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. I - Fasc. IV",
@@ -4375,7 +4546,8 @@ items = [
         "Categoria": "Cultura e Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIFascIV.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. I - Fasc. III",
@@ -4384,7 +4556,8 @@ items = [
         "Categoria": "Cultura e Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIFascIII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. I - Fasc. II",
@@ -4393,7 +4566,8 @@ items = [
         "Categoria": "Cultura e Geologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIFascII.jpg"
     },
     {
         "Titulo": "Açoreana: Vol. I - Fasc. I",
@@ -4402,7 +4576,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AçoreanaVolIFascI.jpg"
     },
     {
         "Titulo": "Haja Luz! Uma história da química através de tudo",
@@ -4420,7 +4595,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ArquipelagoLifeAndMarineSciences.jpg"
     },
     {
         "Titulo": "Bragança, um território para conquistar",
@@ -4429,7 +4605,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Bragança.jpg"
     },
     {
         "Titulo": "Paisagem da cultura da vinha da ilha do Pico ",
@@ -4447,7 +4624,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Revista",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/AzoresANaturalPortrait.jpg"
     },
     {
         "Titulo": "Insect: Discover the busy and intriguing world of insects - their structure, life-history, and fascinating variety",
@@ -4492,7 +4670,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ADiversidadeNaOrlaCosteiraDaCalouraAPontaGarca.jpg"
     },
     {
         "Titulo": "A Diversidade na Orla Costeira: São Roque a Santa Cruz da Lagoa",
@@ -4510,7 +4689,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ADiversidadeNaOraCosteiraDaRibeiraQuenteAoFaialDaTerra.jpg"
     },
 ]
 
