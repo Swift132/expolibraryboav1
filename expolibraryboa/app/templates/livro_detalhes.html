@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalhes do Livro</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+    <link rel="icon" href="{{ url_for('static', filename='img/icones/logo.png') }}" type="image/x-icon">
+
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-image: url("{{ url_for('static', filename='img/background.png') }}");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .form-control {
+        margin-bottom: 30px;
+        text-align: center;
+        font-style: italic;
+    }
+
+    .list-group-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .bold {
+        font-weight: bold;
+        font-family: 'Franklin Gothic Medium';
+        font-size: 100px;
+    }
+
+    .lista {
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .rodape {
+        margin-top: 5px;
+        padding-top: 35px;
+        padding-bottom: 35px;
+        font-family: 'Verdana';
+        font-size: 12;
+        text-align: center;
+        background-color: #072359;
+        color: white;
+    }
+
+    .logo {
+        width: 150px;
+        height: auto;
+        position: absolute;
+        top: 50%;
+        left: 10px; /* ou a posição desejada */
+        transform: translateY(-50%);
+    }
+
+    .logor {
+        width: 500px;
+        height: auto;
+        position: center;
+        top: auto;
+        left: 10px;
+    }
+
+    .logo-link {
+        text-decoration: none;
+    }
+
+    #backToTopBtn:hover {
+        background-color: #555;
+        /* Cor de fundo ao passar o mouse */
+    }
+
+    .book_size {
+        width: 200px; /* Largura da imagem */
+        height: auto; /* Mantém a proporção da imagem */
+        display: block; /* Garante que a imagem seja um bloco para margens funcionarem */
+        margin: 20px auto; /* Centraliza a imagem horizontalmente e adiciona margem superior e inferior */
+    }
+
+    @media (max-width: 768px) {
+        .container {
+            max-width: 300px;
+            margin: 0 auto;
+            font-family: "Verdana";
+            min-height: 100vh;
+        }
+    }
+
+    .form-control {
+        margin-bottom: 15px;
+    }
+</style>
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{{ url_for('static', filename='img/' ~ livro['Imagem']) }}" alt="Imagem" class="img-fluid">
+            </div>
+            <div class="col-md-6">
+                <h1>{{ livro.Titulo }}</h1>
+                <br>
+                <p><strong>Autor:</strong> {{ livro.Autor }}</p>
+                <p><strong>Ano:</strong> {{ livro.Ano }}</p>
+                <p><strong>Categoria:</strong> {{ livro.Categoria }}</p>
+                <p><strong>Sub-Categoria:</strong> {{ livro.Sub_Categoria }}</p>
+                <p><strong>Linguagem:</strong> {{ livro.Linguagem }}</p>
+                <p><strong>Material:</strong> {{ livro.Material }}</p>
+                <p><strong>Descrição:</strong> {{ livro.Descricao }}</p>
+                <a href="{{ url_for('index') }}" class="btn btn-primary">Voltar</a>
+            </div>
+        </div>
+    </div>
+    <br><br><br><br><br><br>
+    <div class="rodape">
+        <h6>Desenvolvido pelo Expolab</h6>
+        <br>
+        <img src="{{ url_for('static', filename='img/rodape/rodape2.png') }}" class="logor">
+        <br><br><br>
+        <font size=2>
+            <p>© Expolab 2024</p>
+        </font>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

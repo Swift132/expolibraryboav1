@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    tty: true
+    container_name: expolibrary_container
+    ports:
+      - 5000:5000
+      - 8000:8000
+    networks:
+      - expolibrary
+    command: python3 run.py
+networks:
+  expolibrary:
+    driver: bridge

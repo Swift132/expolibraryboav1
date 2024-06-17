@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en, pt-PT">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="author" content="Nicole Almeida, Diogo Pacheco">
+    <meta name="description" content="Website de base de dados dos livros do Expolab">
+    <meta name="keywords" content="biblioteca, livros, library, books, centro, expolab">
+
+    <link rel="icon" href="{{ url_for('static', filename='img/icones/logo.png') }}" type="image/x-icon">
+
+    <title>ExpoLibrary</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/headers/">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-image: url("{{ url_for('static', filename='img/background.png') }}");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+        font-family: "Verdana";
+    }
+
+    .cabecalho {
+        margin-bottom: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        font-family: 'Verdana';
+        font-size: 26;
+        text-align: center;
+        background-image: url("{{ url_for('static', filename='img/cabecalho/cabecalho1.png') }}");
+    }
+
+    .book_size {
+        width: 250px;
+        /* Largura da imagem */
+        height: auto;
+        /* Mantém a proporção da imagem */
+        display: block;
+        /* Garante que a imagem seja um bloco para margens funcionarem */
+        margin: 20px auto;
+        /* Centraliza a imagem horizontalmente e adiciona margem superior e inferior */
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15), 0 15px 40px rgba(0, 0, 0, 0.15);
+        /* Adiciona sombras maiores */
+        transition: box-shadow 0.3s ease-in-out;
+        /* Adiciona transição suave para a sombra */
+
+    }
+
+    .col-custom {
+        flex: 0 0 20%;
+        /* Define a largura da coluna como 20% */
+        max-width: 20%;
+        /* Define a largura máxima da coluna como 20% */
+        padding-left: 10px;
+        /* Adiciona padding à esquerda */
+        padding-right: 10px;
+        /* Adiciona padding à direita */
+        box-sizing: border-box;
+        /* Inclui padding e bordas na largura e altura total do elemento */
+    }
+
+    .row {
+        width: auto;
+        /* Largura da imagem */
+        height: 50%;
+    }
+
+    .logo {
+        width: 150px;
+        height: auto;
+        position: absolute;
+        top: 6.5%;
+        left: 10px;
+        /* ou a posição desejada */
+        transform: translateY(-50%);
+    }
+
+    .book_size {
+        transition: transform 0.3s ease;
+    }
+
+    .book_size:hover {
+        transform: scale(1.1);
+    }
+
+    #back-to-top {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        display: none;
+        width: 50px;
+        height: 50px;
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        text-align: center;
+        cursor: pointer;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        z-index: 1000;
+    }
+
+    #back-to-top:hover {
+        background-color: #0056b3;
+    }
+
+    .form-control-dark {
+        border-color: var(--bs-gray);
+    }
+
+    .form-control-dark:focus {
+        border-color: #fff;
+        box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+    }
+
+    .text-small {
+        font-size: 85%;
+    }
+
+    .dropdown-toggle:not(:focus) {
+        outline: 0;
+    }
+
+    .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        width: 100%;
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .btn-bd-primary {
+        --bd-violet-bg: #712cf9;
+        --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+
+        --bs-btn-font-weight: 600;
+        --bs-btn-color: var(--bs-white);
+        --bs-btn-bg: var(--bd-violet-bg);
+        --bs-btn-border-color: var(--bd-violet-bg);
+        --bs-btn-hover-color: var(--bs-white);
+        --bs-btn-hover-bg: #6528e0;
+        --bs-btn-hover-border-color: #6528e0;
+        --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+        --bs-btn-active-color: var(--bs-btn-hover-color);
+        --bs-btn-active-bg: #5a23c8;
+        --bs-btn-active-border-color: #5a23c8;
+      }
+
+      .bd-mode-toggle {
+        z-index: 1500;
+      }
+
+      .bd-mode-toggle .dropdown-menu .active .bi {
+        display: block !important;
+      }
+</style>
+
+<body>
+    <button id="back-to-top" onclick="scrollToTop()">↑</button>
+    <script>
+        // Mostrar o botão quando o usuário rolar 20px para baixo
+        window.onscroll = function () { scrollFunction() };
+
+        function scrollFunction() {
+            const backToTopButton = document.getElementById("back-to-top");
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                backToTopButton.style.display = "block";
+            } else {
+                backToTopButton.style.display = "none";
+            }
+        }
+
+        // Função para rolar para o topo da página
+        function scrollToTop() {
+            document.body.scrollTop = 0; // Para Safari
+            document.documentElement.scrollTop = 0; // Para Chrome, Firefox, IE e Opera
+        }
+    </script>
+    <div class="cabecalho">
+        <a href="https://expolibrary.dspacheco.pt">
+            <img src="{{ url_for('static', filename='img/logotipo.png') }}" alt="Logotipo do site" class="logo">
+        </a>
+        <br>
+    </div>
+    
+    <div class="container">
+        <h1 class="text-center"><span class="bold">ExpoLibrary</span></h1>
+        <br>
+        <form method="post" class="form-inline justify-content-center mb-4">
+            <center>
+                <input type="text" name="Titulo" class="form-control mr-2" placeholder="Titulo">
+                <input type="text" name="Autor" class="form-control mr-2" placeholder="Autor">
+                <select name="Categoria" class="form-control mr-2" placeholder="Categoria">
+                    <option value="">Selecionar categoria</option>
+                    <option value="Biologia">Biologia</option>
+                    <option value="Caderno escolar">Caderno escolar</option>
+                    <option value="Ciências">Ciências</option>
+                    <option value="Ciências e tecnologia">Ciências e tecnologia</option>
+                    <option value="Cidadania">Cidadania</option>
+                    <option value="Cultura">Cultura</option>
+                    <option value="DVD">DVD</option>
+                    <option value="Ecologia">Ecologia</option>
+                    <option value="Enciclopédia">Enciclopédia</option>
+                    <option value="Entrevista">Entrevista</option>
+                    <option value="Escolar">Escolar</option>
+                    <option value="Estudo do meio">Estudo do meio</option>
+                    <option value="Fisica">Física</option>
+                    <option value="Fisica/Química">Física/Química</option>
+                    <option value="Fotografia">Fotografia</option>
+                    <option value="Geografia">Geografia</option>
+                    <option value="Geologia">Geologia</option>
+                    <option value="História">História</option>
+                    <option value="Infantil">Infantil</option>
+                    <option value="Lingua Portuguesa">Língua Portuguesa</option>
+                    <option value="Matemática">Matemática</option>
+                    <option value="Panfleto">Panfleto</option>
+                    <option value="Química">Química</option>
+                    <option value="Receitas">Receitas</option>
+                    <option value="Reciclagem">Reciclagem</option>
+                    <option value="Revista">Revista</option>
+                    <option value="Segurança">Segurança</option>
+                    <option value="Tecnologia">Tecnologia</option>
+                    <option value="Turismo">Turismo</option>
+                    <option value="NaN">Sem Dados</option>
+                </select>
+
+                <select name="Sub_Categoria" class="form-control mr-2" placeholder="Sub-categoria">
+                    <option value="">Selecionar Sub-Categoria</option>
+                    <option value="Album de fotos">Álbum de fotos</option>
+                    <option value="Anatomia">Anatomia</option>
+                    <option value="Antropologia">Antropologia</option>
+                    <option value="Arqueologia">Arqueologia</option>
+                    <option value="Apicultura">Apicultura</option>
+                    <option value="Banda desenhada">Banda desenhada</option>
+                    <option value="Biologia marinha">Biologia marinha</option>
+                    <option value="Biologia marinha dos Açores">Biologia marinha dos Açores</option>
+                    <option value="Biotecnologia">Biotecnologia</option>
+                    <option value="Biosfera">Biosfera</option>
+                    <option value="Botânica">Botânica</option>
+                    <option value="Ciência Geral">Ciência geral</option>
+                    <option value="Ciências da Natureza">Ciências da Natureza</option>
+                    <option value="Dicionário">Dicionário</option>
+                    <option value="DVD">DVD</option>
+                    <option value="Ecologia">Ecologia</option>
+                    <option value="Enciclopédia">Enciclopédia</option>
+                    <option value="Energia">Energia</option>
+                    <option value="Engenharia">Engenharia</option>
+                    <option value="Entomologia">Entomologia</option>
+                    <option value="Evolucionismo">Evolucionismo</option>
+                    <option value="Geneologia">Geneologia</option>
+                    <option value="Geobiológica">Geobiológica</option>
+                    <option value="Geociência">Geociência</option>
+                    <option value="Geofísica">Geofísica</option>
+                    <option value="Geomorfologia">Geomorfologia</option>
+                    <option value="Geotérmica">Geotérmica</option>
+                    <option value="História">História</option>
+                    <option value="Hist. Cultural de Portugal">História cultural de Portugal</option>
+                    <option value="Hist. Cultural dos Açores">História cultural dos Açores</option>
+                    <option value="Livro para colorir">Livros para Colorir</option>
+                    <option value="Malacologia">Malacologia</option>
+                    <option value="Manual escolar">Manual escolar</option>
+                    <option value="Metodologia">Metodologia</option>
+                    <option value="Meteorologia">Meteorologia</option>
+                    <option value="Microbiologia">Microbiologia</option>
+                    <option value="Museu">Museu</option>
+                    <option value="Natureza">Natureza</option>
+                    <option value="Paleontologia">Paleontologia</option>
+                    <option value="Panfleto">Panfleto</option>
+                    <option value="Pesca">Pesca</option>
+                    <option value="Revista">Revista</option>
+                    <option value="Roteiro">Roteiro</option>
+                    <option value="Taxonomia">Taxonomia</option>
+                    <option value="Turismo rural">Turismo rural</option>
+                    <option value="Vulcanologia">Vulcanologia</option>
+                    <option value="Zoologia">Zoologia</option>
+                </select>
+
+                <select name="Linguagem" class="form-control mr-2" placeholder="Língua">
+                    <option value="">Selecionar Linguagem</option>
+                    <option value="Multi idiomas">Multi Linguagens</option>
+                    <option value="Alemão">Alemão</option>
+                    <option value="Espanhol">Espanhol</option>
+                    <option value="Inglês">Inglês</option>
+                    <option value="Finlandês">Finlandês</option>
+                    <option value="Francês">Francês</option>
+                    <option value="Português">Português</option>
+                    <option value="NaN">Sem Dados</option>
+                </select>
+                <input type="text" name="Ano" class="form-control mr-2" placeholder="Ano">
+                <br>
+                <button type="submit" class="btn btn-primary">Filtrar</button>
+
+        </form>
+    </div>
+    <br><br><br>
+    <h5 class="lista">LISTAGEM DE LIVROS:</h5>
+    <br>
+    <br><br>
+    <div class="row">
+        {% for item in items %}
+        <div class="col-custom mb-4">
+
+            <div class="card">
+                <a href="{{ url_for('livro_detalhes', titulo=item['Titulo']) }}">
+                    {% if 'Imagem' in item %}
+                    <img src="{{ url_for('static', filename='img/' ~ item['Imagem']) }}" alt="Imagem" class="book_size">
+                    {% endif %}
+                </a>
+                <div class="card-body">
+                    <h5 class="card-title">{{ item.Titulo }}</h5>
+                    <p class="card-text"><strong>Autor: </strong> {% if item.Autor|length > 20 %}
+                        {{ item.Autor[:17] + '...' }}
+                        {% else %}
+                        {{ item.Autor }}
+                        {% endif %}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    </div>
+    <div class="rodape">
+        <h6>Desenvolvido pelo Expolab</h6>
+        <br>
+        <img src="{{ url_for('static', filename='img/rodape/rodape2.png') }}" class="logor">
+        <br><br><br>
+        <font size=2>
+            <p>© Expolab 2024</p>
+        </font>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+</html>
