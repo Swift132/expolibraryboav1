@@ -68,7 +68,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLII1.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLII.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LIII - 2ª série, 53 - 1º Parte",
@@ -78,7 +78,7 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIII1.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LIII - 2ª série, 53 - 2º Parte",
@@ -87,7 +87,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIII2.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LIV - 2ª série, 54",
@@ -1472,7 +1473,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Boletim.jpg"
     },
     {
         "Titulo": "A Cultura Sefardita no Nordeste Transmontano",
@@ -1528,7 +1530,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Blue Azores.jpg"
     },
     {
         "Titulo": "Grande Enciclopédia das Ciências, Tecnologia e Natureza - A evolução da vida",
@@ -2170,7 +2173,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Bioterra 5 Parte 1.jpg"
     },
     {
         "Titulo": "Bioterra Parte 2 - 5º ano",
@@ -2179,7 +2183,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Bioterra 5 Parte 2.jpg"
     },
     {
         "Titulo": "Bioterra - 5º ano - Caderno de atividades",
@@ -2188,7 +2193,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Bioterra 5 - Caderno de Actividades.jpg"
     },
     {
         "Titulo": "Biovida - 8º ano",
@@ -2244,7 +2250,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Bioterra 6 Parte 1.jpg"
     },
     {
         "Titulo": "Bioterra > Parte 2 - 6º Ano",
@@ -2253,7 +2260,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Bioterra 6 Parte 2.jpg"
     },
     {
         "Titulo": "Bioterra > Caderno de Atividades 6º Ano",
@@ -2262,7 +2270,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Bioterra 6 - Caderno de Actividades.jpg"
     },
     {
         "Titulo": "Descobrir a Terra: Livro do Aluno",
@@ -2605,7 +2614,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Livro para Colorir",
         "Linguagem": "Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/BlancaNieves.jpg"
     },
     {
         "Titulo": "El Mundo de Tarzan",
@@ -4690,7 +4700,7 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ADiversidadeNaOraCosteiraDaRibeiraQuenteAoFaialDaTerra.jpg"
+        "Imagem": "/livros/ADiversidadeNaOrlaCosteiraDaRibeiraQuenteAoFaialDaTerra.jpg"
     },
 ]
 
