@@ -1303,7 +1303,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/GuiadeHistoriaNaturaldaIlhadoPico.jpg"
     },
     {
         "Titulo": "Um bosque perto de si - Conhecer ecossistemas florestais",
@@ -1378,7 +1379,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Cultura dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/GuiaDeInterpretaçãoDaFloraDaReservaNaturalDaLagoaDoFogo.jpg"
     },
     {
         "Titulo": "Insvlana - Órgão do Instituto Cultural de Ponta Delgada - LXVI",
@@ -1578,7 +1580,8 @@ items = [
         "Categoria": "Tecnologia",
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/GrandeEnciclopediaMaquinaSeInventos.jpg"
     },
     {
         "Titulo": "Grande Enciclopédia das Ciências, Tecnologia e Natureza - O Comportamento dos Animais",
@@ -1587,7 +1590,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/GrandeEnciclopediaOComportamentoDosAnimais.jpg"
     },
     {
         "Titulo": "Lagos, Guia de Geologia e Paleontologia Urbana - Urban Geology and Paleontology Guide",
@@ -1777,7 +1781,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/História Jornal de Noticias.jpg"
     },
     {
         "Titulo": "Biologia e Sociedade número 12",
@@ -3108,7 +3113,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Heidi.jpg"
     },
     {
         "Titulo": "Circuitos ciência viva - 1ª edição",
@@ -3382,7 +3388,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Museu",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Gunther Maul.jpg"
     },
     {
         "Titulo": "Um Toque Decisivo- A Small but Crucial Push: British Council- 70 anos com Portugal",
@@ -3503,7 +3510,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Guia do Consumidor do Pescado dos Açores.jpg"
     },
     {
         "Titulo": "Mistério do Vulcão da Urzelina da Ilha de São Jorge dos Açores",
@@ -3683,7 +3691,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Guia do Municipe Ambientalista.jpg"
     },
     {
         "Titulo": "Como Implementar uma Recolha Selectiva?",
@@ -3901,7 +3910,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/GuerraDoUltramar.jpg"
     },
     {
         "Titulo": "Dragoeiros do Museu do Vinho",
@@ -4664,7 +4674,8 @@ items = [
         "Categoria": "Química",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/HajaLuz.jpg"
     },
     {
         "Titulo": "Arquipelago: Life Marine Sciences",
