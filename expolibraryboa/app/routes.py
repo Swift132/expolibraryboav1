@@ -1114,7 +1114,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaCalculoDiferencialemIR.jpg"
     },
     {
         "Titulo": "Bioquímica",
@@ -1181,7 +1182,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaExerciciosPrimitivasIntegrais.jpg"
     },
     {
         "Titulo": "Cálculo Diferencial e Integral - Volume II",
@@ -1210,7 +1212,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaFormulario.jpg"
     },
     {
         "Titulo": "Nova Fisica Divertida",
@@ -1389,7 +1392,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Insvlana2010.jpg"
     },
     {
         "Titulo": "Insvlana - Órgão do Instituto Cultural de Ponta Delgada - LXVIII",
@@ -1398,7 +1402,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Insvlana2012.jpg"
     },
     {
         "Titulo": "Flora da Madeira - Plantas Vasculares Naturalizadas no Arquipélago da Madeira",
@@ -1464,7 +1469,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/HistoriaNaturalDosAcores.jpg"
     },
     {
         "Titulo": "Açores Magiae Naturalis",
@@ -1600,7 +1606,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/LagosGuiaDeGeologiaEPaleontologiaUrbana.jpg"
     },
     {
         "Titulo": "Faro, Guia de Geologia e Paleontologia Urbana - Urban Geology and Paleontology Guide",
@@ -1638,7 +1645,8 @@ items = [
         "Categoria": "Segurança",
         "Sub_Categoria": "Pesca",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ManualParaSegurancaNaPesca.jpg"
     },
     {
         "Titulo": "A Caravela",
@@ -1996,7 +2004,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MapasECartas.jpg"
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Materiais Líquidos, sólidos e gasosos - as suas propriedades e usos",
@@ -2092,7 +2101,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaDivertidaExplorarOsNumeros.jpg"
     },
     {
         "Titulo": "Matemática Divertida: Medir o Tamanho",
@@ -2101,7 +2111,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaDivertidaMedirOTamanho.jpg"
     },
     {
         "Titulo": "Matemática Divertida: Fazer Fracções",
@@ -2110,7 +2121,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaDivertidaFazerFraccoes.jpg"
     },
     {
         "Titulo": "Matemática Divertida: Identificar pontos e posições",
@@ -2119,7 +2131,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaDivertidaIdentificarPontosEPosicoes.jpg"
     },
     {
         "Titulo": "Matemática Divertida: Explorar as Formas",
@@ -2128,7 +2141,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaDivertidaExplorarAsFormas.jpg"
     },
     {
         "Titulo": "Matemática Divertida: Medir o Peso e o Tempo",
@@ -2137,7 +2151,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaDivertidaMedirOPesoEOTempo.jpg"
     },
     {
         "Titulo": "Matemática Divertida: Tratar Dados",
@@ -2146,7 +2161,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaDivertidaTratarDados.jpg"
     },
     {
         "Titulo": "Matemática Divertida: Descobrir Padrões",
@@ -2155,7 +2171,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MatematicaDivertidaDescobrirPadroes.jpg"
     },
     {
         "Titulo": "Miúdos espertos! Experiências com cores",
@@ -2388,7 +2405,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Matemática ConVida Parte 1.jpg"
     },
     {
         "Titulo": "6º Ano Matemática Convida: Parte 2",
@@ -2397,7 +2415,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Matemática ConVida Parte 2.jpg"
     },
     {
         "Titulo": "6º Ano Matemática Convida: Caderno de Atividades",
@@ -2406,7 +2425,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Matemática ConVida Caderno de Actividades.jpg"
     },
     {
         "Titulo": "6º Ano Matemática Convida: Caderno de Materiais",
@@ -2415,7 +2435,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Matemática ConVida - Caderno de Materiais.jpg"
     },
     {
         "Titulo": "Mat 6 - Volume 1 - 6º ano",
@@ -2424,7 +2445,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Mat 6 Volume 1.jpg"
     },
     {
         "Titulo": "Matematicamente falando - 5º ano - Caderno de atividades",
@@ -2501,13 +2523,14 @@ items = [
         "Imagem": "/livros/Escrita em dia - Fichas de ortografia.jpg"
     },
     {
-        "Titulo": "Mat 6  - 6º ano - Caderno de atividades",
+        "Titulo": "Mat 6  - 6º ano - Caderno de Exercicios",
         "Autor": "Elza Gouveia Durão e Maria Margarida Baldaque",
         "Ano": 2006,
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Mat 6 Caderno de Exercícios.jpg"
     },
     {
         "Titulo": "Mat 6 - Volume 2 - 6º ano",
@@ -2516,7 +2539,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Mat 6 Volume 2.jpg"
     },
     {
         "Titulo": "À Procura da Solução: Actividades Matemáticas",
@@ -2562,7 +2586,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Leio Sozinho - O Patinho Feio.jpg"
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 1: A Panela Mágica",
@@ -2571,7 +2596,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Leio Sozinho - A Panela Mágica.jpg"
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 2: Capuchinho Vermelho",
@@ -2580,7 +2606,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Leio Sozinho - Capuchinho Vermelho.jpg"
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 2: Os três porquinhos",
@@ -2589,7 +2616,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Leio Sozinho - Os Três Porquinhos.jpg"
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 3: O gato das botas",
@@ -2598,7 +2626,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Leio Sozinho - O Gato das Botas.jpg"
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 4: Branca de neves e os sete anões",
@@ -2607,7 +2636,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Leio Sozinho - Branca de Neve e os Sete Anões.jpg"
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 4: Pedro e o Lobo",
@@ -2616,7 +2646,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Leio Sozinho - Pedro e o Lobo.jpg"
     },
     {
         "Titulo": "Solar de Santa Catarina",
@@ -2634,7 +2665,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/HistoriasConversasELengalengas.jpg"
     },
     {
         "Titulo": "La Casita de Chocolate",
@@ -2643,7 +2675,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Livro para Colorir",
         "Linguagem": "Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/LaCasitaDeChocolate.jpg"
     },
     {
         "Titulo": "Blanca Nieves",
@@ -2850,7 +2883,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/João e Maria.jpg"
     },
     {
         "Titulo": "Farol: Um golfinho em apuros",
@@ -2878,7 +2912,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/LagoasELagoeiros.jpg"
     },
     {
         "Titulo": "A História da Senhora Rata Migalha",
@@ -2974,7 +3009,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Luta de Galos.jpg"
     },
     {
         "Titulo": "O ladrão Insolente",
@@ -3010,7 +3046,8 @@ items = [
         "Categoria": "Ciências da natureza",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Maravilhas da Natureza.jpg"
     },
     {
         "Titulo": "A Bela e o Monstro",
@@ -3143,7 +3180,7 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Disney Pinóquio.jpg"
+        "Imagem": "/livros/Histórias Multieducativas Disney Pinóquio.jpg"
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: Os aristogatos",
@@ -3208,7 +3245,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Disney Pinóquio.jpg"
     },
     {
         "Titulo": "Aladdin",
@@ -3342,7 +3380,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Biologia marinha",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Mar e Sociedade.jpg"
     },
     {
         "Titulo": "Briófitos raros dos Açores ",
@@ -3407,7 +3446,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/LisboaODescobrimentoDoMundoEFernaoDeMagalhaes.jpg"
     },
     {
         "Titulo": "Desenhando a Porta do Pacífico - Drawing the Gateway to the Pacific",
@@ -3420,13 +3460,14 @@ items = [
         "Imagem": "/livros/DesenhandoAPortaDoPacifico.jpg"
     },
     {
-        "Titulo": "Listagem da Fauna (Mollusca e Anthropoda) e Flora (Bryophyta, Pteridophyta e Spermatophyta) Terrestres dos Açores - A List ofTerrestrial Fauna (Mollusca and Arthropoda) and Flora (Bryophyta, Pteridophyta and Spermatophyta) from the Azores",
+        "Titulo": "Listagem da Fauna (Mollusca e Anthropoda) e Flora (Bryophyta, Pteridophyta e Spermatophyta) Terrestres dos Açores - A List of Terrestrial Fauna (Mollusca and Arthropoda) and Flora (Bryophyta, Pteridophyta and Spermatophyta) from the Azores",
         "Autor": "Paulo A. V. Borges, Regina Cunha, Rosalina Gabriel, António Frias Martins, Luís Silva e Virgílio Vieira",
         "Ano": 2005,
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Listagem da Fauna e Flora Terrestres dos Açores.jpg"
     },
     {
         "Titulo": "Azores: Island to Island",
@@ -3463,7 +3504,8 @@ items = [
         "Categoria": "Biologia e História",
         "Sub_Categoria": "Ecologia e Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Lagoas do Congro e dos Nenúfares.jpg"
     },
     {
         "Titulo": "Açores, Terras do Priolo: Leste de São Miguel",
@@ -3529,7 +3571,8 @@ items = [
         "Categoria": "Biologia e História",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Lagoas e Lagoeiros do Concelho de Ponta Delgada.jpg"
     },
     {
         "Titulo": "Etnobotânica: Plantas Bravias, Comestíveis, Condimentares e Medicinais",
@@ -3873,7 +3916,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Listagem dos fungos, flora e fauna terrestres dos arquipélagos da Madeira e Selvagens.jpg"
     },
     {
         "Titulo": "Albert I do Mónaco, Afonso Chaves e a Meteorologia dos Açores",
@@ -4723,7 +4767,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Entomologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Insect.jpg"
     },
     {
         "Titulo": "DragonFlies",
