@@ -1405,7 +1405,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/FloraDaMadeiraPlantasVascularesNaturalizadasNoArquipelagoDaMadeira.jpg"
     },
     {
         "Titulo": "As atitudes face ao ambiente em Regiões Periféricas",
@@ -1433,7 +1434,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/FaunaAndFloraOfTheAtlanticIslands.jpg"
     },
     {
         "Titulo": "O Barco e O Sonho",
@@ -1546,7 +1548,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/GrandeEnciclopediaAEvolucaoDaVida.jpg"
     },
     {
         "Titulo": "Grande Enciclopédia das Ciências, Tecnologia e Natureza - Ecologia",
@@ -1600,7 +1603,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/FaroGuiaDeGeologiaEPaleontologiaUrbana.jpg"
     },
     {
         "Titulo": "Tavira, Guia de Geologia e Paleontologia Urbana - Urban Geology and Paleontology Guide",
@@ -1661,22 +1665,24 @@ items = [
         "Imagem": "/livros/CharcosTemporariosDoSulDePortugal.jpg"
     },
     {
-        "Titulo": "Circuitos Ciência Viva - 4ª edição",
+        "Titulo": "Circuitos Ciência Viva - 3ª edição",
         "Autor": "Filipa Dias, Francisco Motta Veiga e Cláudia Montenegro ",
         "Ano": 2020,
         "Categoria": "Cultura",
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/CircuitosCienciaViva3.jpg"
     },
     {
-        "Titulo": "Circuitos Ciência Viva - 3ª edição",
+        "Titulo": "Circuitos Ciência Viva - 2ª edição",
         "Autor": "Filipa Dias, Francisco Motta Veiga e Cláudia Montenegro ",
         "Ano": 2018,
         "Categoria": "Cultura",
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/CircuitosCienciaViva2.jpg"
     },
     {
         "Titulo": "Panorama Spokes",
@@ -1721,7 +1727,8 @@ items = [
         "Categoria": "Geodiversidade",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Geodiversidade Valores e Usos.jpg"
     },
     {
         "Titulo": "Energia e Alterações Climáticas",
@@ -1730,7 +1737,8 @@ items = [
         "Categoria": "Ciências",
         "Sub_Categoria": "Energia e Meteorologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Energia e Alterações Climáticas.jpg"
     },
     {
         "Titulo": "OGM - Organismos Geneticamente Modificados",
@@ -1896,7 +1904,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia marinha",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Esponjas.jpg"
     },
     {
         "Titulo": "As espécies mais populares do mar de Portugal num restaurante perto de si",
@@ -1998,7 +2007,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Clima.jpg"
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Desertos",
@@ -2007,7 +2017,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Desertos.jpg"
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Terras Polares",
@@ -2025,7 +2036,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/DisfarceDosAnimais.jpg"
     },
     {
         "Titulo": "Grandes Clássicos de Aventuras: A Ilha Misteriosa",
@@ -2145,7 +2157,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ExperienciasComCores.jpg"
     },
     {
         "Titulo": "Miúdos espertos! Experiências com a natureza",
@@ -2154,7 +2167,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ExperienciasComANatureza.jpg"
     },
     {
         "Titulo": "Miúdos espertos! Experiências com tecnologia",
@@ -2163,7 +2177,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ExperienciasComTecnologia.jpg"
     },
     {
         "Titulo": "Eu e a Química - 8º ano - Caderno de atividades",
@@ -2172,7 +2187,8 @@ items = [
         "Categoria": "Físico-Química",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Eu e a Quimica - Caderno de Actividades.jpg"
     },
     {
         "Titulo": "Bioterra Parte 1 - 5º ano",
@@ -2221,7 +2237,8 @@ items = [
         "Categoria": "Físico-Química",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Eu e a Quimica.jpg"
     },
     {
         "Titulo": "O Mistério da vida - 5º ano",
@@ -2239,7 +2256,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Da Célula no Universo.jpg"
     },
     {
         "Titulo": "A minha primeira enciclopédia com winnie the pooh e seus amigos",
@@ -2288,7 +2306,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Descobrir a Terra Livro do Aluno.jpg"
     },
     {
         "Titulo": "Descobrir a Terra: Livro do Professor",
@@ -2297,7 +2316,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Descobrir a Terra Livro do Professor.jpg"
     },
     {
         "Titulo": "Descobrir a Terra: Caderno de Atividades",
@@ -2306,7 +2326,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Descobrir a Terra - Caderno de Actividades.jpg"
     },
     {
         "Titulo": "Ciências: Manual do Aluno",
@@ -2414,7 +2435,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Descobrir a Terra - Caderno de Actividades 2.jpg"
     },
     {
         "Titulo": "Matematicamente falando - 5º ano - Parte 1",
@@ -2468,7 +2490,8 @@ items = [
         "Categoria": "Lingua Portuguesa",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Escrita em dia - Fichas de ortografia.jpg"
     },
     {
         "Titulo": "Mat 6  - 6º ano - Caderno de atividades",
@@ -2632,7 +2655,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Livro para Colorir",
         "Linguagem": "Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ElMundoTarzan.jpg"
     },
     {
         "Titulo": "Peter Pan e Pinoquio",
@@ -2650,7 +2674,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Ciência Geral",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/DeOndeVemAEletricidade.jpg"
     },
     {
         "Titulo": "Já sei Ler: Parabéns, Igor!",
@@ -2671,13 +2696,14 @@ items = [
         "Material": "Não Plastificado"
     },
     {
-        "Titulo": "Infantil do Ambiente",
+        "Titulo": "Dicionário Infantil do Ambiente",
         "Autor": "Joaquim Palma",
         "Ano": 2006,
         "Categoria": "Infantil",
         "Sub_Categoria": "Dicionário",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/DicionarioInfantilDoAmbiente.jpg"
     },
     {
         "Titulo": "A Cabana do Pai Tomás",
@@ -2807,7 +2833,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Gente Diferente Um Livro com Janelinhas.jpg"
     },
     {
         "Titulo": "Os contos do tio patinhas: João e Maria",
@@ -2825,7 +2852,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Farol, Um Golfinho em Apuros.jpg"
     },
     {
         "Titulo": "Tudo ao contrário: Diário de uma equipa de um centro ciência",
@@ -2871,7 +2899,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Dinossauro.jpg"
     },
     {
         "Titulo": "É Divertido Conhecer os Paises da Europa com Walt Disney",
@@ -2880,7 +2909,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/EDivertidoConhecerOsPaisesDaEuropa.jpg"
     },
     {
         "Titulo": "É Divertido Conhecer os Países da América com Walt Disney",
@@ -2889,7 +2919,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/EDivertidoConhecerOsPaisesDaAmerica.jpg"
     },
     {
         "Titulo": "Descobre a Floresta Húmida",
@@ -2898,7 +2929,8 @@ items = [
         "Categoria": "Ciências da natureza",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Descobre a Floresta Húmida.jpg"
     },
     {
         "Titulo": "Dokeo, Proteger a Terra: Os grandes desafios do Ambiente",
@@ -2907,7 +2939,8 @@ items = [
         "Categoria": "Ecologia",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/DOKEO Proteger a Terra.jpg"
     },
     {
         "Titulo": "O Leão e o rato",
@@ -2989,7 +3022,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Dentro da Floresta.jpg"
     },
     {
         "Titulo": "As viagens de Gulliver",
@@ -3081,7 +3115,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/CircuitosCienciaViva.jpg"
     },
     {
         "Titulo": "Mistérios disney: Os fantasmas Existem? ",
@@ -3099,7 +3134,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Disney Pinóquio.jpg"
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: Os aristogatos",
@@ -3117,7 +3153,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Disney O Livro da Selva.jpg"
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: Dumbo",
@@ -3126,7 +3163,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Dumbo.jpg"
     },
     {
         "Titulo": "O pato que veio do frio",
@@ -3181,7 +3219,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português, Espanhol e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Flora e Fauna Terrestre Invasora na Macaronésia.jpg"
     },
     {
         "Titulo": "Relict Species: Phylogeography and Conservation Biology",
@@ -3208,7 +3247,8 @@ items = [
         "Categoria": "Ecologia",
         "Sub_Categoria": "Biosfera",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Como Implementar uma Recolha Selectiva.jpg"
     },
     {
         "Titulo": "Corvo: Candidatura a Reserva da Biosfera",
@@ -3217,7 +3257,8 @@ items = [
         "Categoria": "Ecologia",
         "Sub_Categoria": "Biosfera",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Corvo Candidatura e Reserva da Biosfera.jpg"
     },
     {
         "Titulo": "Graciosa: Biosphere Reserve Proposal",
@@ -3226,7 +3267,8 @@ items = [
         "Categoria": "Ecologia",
         "Sub_Categoria": "Biosfera",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Graciosa Biosphere Reserve Proposal.jpg"
     },
     {
         "Titulo": "Graciosa: Candidatura a Reserva da Biosfera",
@@ -3235,7 +3277,8 @@ items = [
         "Categoria": "Ecologia",
         "Sub_Categoria": "Biosfera",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Graciosa Candidatura a Reserva da Biosfera.jpg"
     },
     {
         "Titulo": "Flora no litoral dos Açores, Avifauna no litoral dos Açores",
@@ -3364,7 +3407,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/DesenhandoAPortaDoPacifico.jpg"
     },
     {
         "Titulo": "Listagem da Fauna (Mollusca e Anthropoda) e Flora (Bryophyta, Pteridophyta e Spermatophyta) Terrestres dos Açores - A List ofTerrestrial Fauna (Mollusca and Arthropoda) and Flora (Bryophyta, Pteridophyta and Spermatophyta) from the Azores",
@@ -3438,7 +3482,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Flora Vascular dos Açores Prioridades em Conservação.jpg"
     },
     {
         "Titulo": "O Pirolo e a floresta natural de altitude",
@@ -3483,7 +3528,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Etnobotânica.jpg"
     },
     {
         "Titulo": "Estudos de Geotermia e Geofísica e outros Escritos",
@@ -3492,7 +3538,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geotérmica e Geofísica",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Estudos de Geotermia e Geofísica e outros Escritos.jpg"
     },
     {
         "Titulo": "Natal Verde: 30 Anos de Postais de Jorge Paiva 1990-2019",
@@ -3643,7 +3690,8 @@ items = [
         "Categoria": "Reciclagem",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Como Implementar uma Recolha Selectiva.jpg"
     },
     {
         "Titulo": "Cise-Seia: Centro de Interpretação da Serra da Estrela",
@@ -3652,7 +3700,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Panfleto",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Cise Seia, Centro de Interpretação da Serra da Estrela.jpg"
     },
     {
         "Titulo": "Atuns, Bonitos e Cavalas dos Açores: Nómadas Atlânticos",
@@ -3689,7 +3738,8 @@ items = [
         "Categoria": "Cidadania",
         "Sub_Categoria": "Metodologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Gestão do Litoral e Cidadania Ambiental.jpg"
     },
     {
         "Titulo": "Mística e Nuvens do Vulcão do Pico",
@@ -3725,7 +3775,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Evolucionismo",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Evolucionismo nos Açores e outros Estudos.jpg"
     },
     {
         "Titulo": "UAciência: Ciencias da Engenharia, Exatas, Saúde e Biotecnologia, e Sociais e Humanas 2012- 2019",
@@ -3752,7 +3803,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Vulcanologia, Sismologia e Geotérmica",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Fogo Frio O vulcão dos Capelinhos.jpg"
     },
     {
         "Titulo": "Arquipelago: Life and Marine Sciences, Supplement 11",
@@ -3790,7 +3842,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Ecologia Costeira dos Açores.jpg"
     },
     {
         "Titulo": "A Casa da Luz: Património Industrial da Senhora do Desterro, Serra da Estrela",
@@ -3855,7 +3908,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Album de Fotos",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Dragoeiros do Museu do Vinho.jpg"
     },
     {
         "Titulo": "Visões Subterrâneas: Fotografias de Jorge Góis",
@@ -3940,7 +3994,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Geneologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/GenealogiasDeSMigueleSantaMariaVolume1.jpg"
     },
     {
         "Titulo": "Scientia Marina: Volume 75, Number 3",
@@ -4664,7 +4719,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Album de Fotos",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/DragonFlies.jpg"
     },
     {
         "Titulo": "Vulcão dos Capelinhos memórias 1957-2007",
@@ -4701,7 +4757,8 @@ items = [
         "Categoria": "Biologia e Geologia",
         "Sub_Categoria": "Geobiológica e Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/DiversidadeNaOrlaCosteiraSaoRoqueASantaCruzDaLagoa.jpg"
     },
     {
         "Titulo": "A Diversidade na Orla Costeira: Da Ribeira Quente ao Faial da Terra",
