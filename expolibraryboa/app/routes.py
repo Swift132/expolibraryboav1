@@ -10,7 +10,7 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "https://rac-ciencias.org/wp/wp-content/uploads/2015/05/cubiertaXXV-708x1024.jpg"
+        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXIV.jpg"
     },
     {
         "Titulo": "Revista de La Academia Canaria de Ciencias - Volumen XXIX",
@@ -20,7 +20,7 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "analesdeljardin.jpg"
+        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXIX.jpg"
     },
     {
         "Titulo": "Revista de La Academia Canaria de Ciencias - Volumen XXX",
@@ -30,7 +30,7 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "https://rac-ciencias.org/wp/wp-content/uploads/2015/05/cubiertaXXV-708x1024.jpg"
+        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXX.jpg"
     },
     {
         "Titulo": "Revista de La Academia Canaria de Ciencias - Volumen XXXIII",
@@ -236,7 +236,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaturforschendenGesellschaftBand91.jpg"
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 92 - Heft 1",
@@ -245,7 +246,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaturforschendenGesellschaftBand92Heft1.jpg"
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 92 - Heft 2",
@@ -254,7 +256,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaturforschendenGesellschaftBand92Heft2.jpg"
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 93",
@@ -263,7 +266,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaturforschendenGesellschaftBand93.jpg"
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 95/1",
@@ -272,7 +276,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaturforschendenGesellschaftBand951.jpg"
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 95/2",
@@ -281,7 +286,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaturforschendenGesellschaftBand952.jpg"
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 96",
@@ -290,7 +296,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaturforschendenGesellschaftBand96.jpg"
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 97/1",
@@ -299,7 +306,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaturforschendenGesellschaftBand971.jpg"
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 98",
@@ -308,7 +316,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaturforschendenGesellschaftBand98.jpg"
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 99",
@@ -317,7 +326,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaturforschendenGesellschaftBand99.jpg"
         
     },
     {
@@ -817,7 +827,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Antropologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume35N5E6.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 50 No. 2",
@@ -826,7 +837,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Antropologia e Arqueologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume50N2.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 50 No. 3",
@@ -835,7 +847,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Antropologia e Arqueologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume50N3.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 51 No. 1",
@@ -844,7 +857,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Malacologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume51N1.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 51 No. 2 & 3",
@@ -853,7 +867,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Taxonomia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume51N2E3.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 52 No. 1",
@@ -862,7 +877,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Taxonomia, Anatomia e Ecologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume52N1.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 52 No. 3",
@@ -871,7 +887,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume52N3.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 53 No. 2",
@@ -880,7 +897,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Entomologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume53N2.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Supplement 5",
@@ -889,7 +907,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Antropologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement5.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Supplement 6",
@@ -898,7 +917,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Antropologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement6.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Supplement 9",
@@ -907,7 +927,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Antropologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement9.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Supplement 25",
@@ -916,7 +937,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Taxonomia, Filogenia e Biogeografia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement25.jpg"
     },
     {
         "Titulo": "Records Of The Australian Museum Supplement 26",
@@ -925,7 +947,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Entomologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement26.jpg"
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 61 (1)",
@@ -1134,7 +1157,8 @@ items = [
         "Categoria": "Química",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Quimica5Edição.jpg"
     },
     {
         "Titulo": "Microbiologia - volume 1",
@@ -1143,7 +1167,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Microbiologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MicrobiologiaVolume1.jpg"
     },
     {
         "Titulo": "Biologia Celular e Molecular - 3ª edição",
@@ -1222,7 +1247,8 @@ items = [
         "Categoria": "Fisica",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NovaFisicaDivertida.jpg"
     },
     {
         "Titulo": "A Ciencia e os Seus Inimigos",
@@ -1241,7 +1267,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OsUrsinhosFolgazoesFestaDeAnosSurpresa.jpg"
     },
     {
         "Titulo": "Os Ursinhos Folgazões Uma Boa Ação",
@@ -1250,7 +1277,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OsUrsinhosFolgazoesUmaBoaAccao.jpg"
     },
     {
         "Titulo": "Ali Babá e Os Quarenta Ladrões",
@@ -1325,7 +1353,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OMundoDeGasparFrutuoso.jpg"
     },
     {
         "Titulo": "Biologia Um ano de Ciência",
@@ -1364,7 +1393,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Cultura dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/PlantasdosAçores.jpg"
     },
     {
         "Titulo": "Plantas Ornamentais dos Açores",
@@ -1373,7 +1403,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Cultura dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/PlantasOrnamentaisdosAçores.jpg"
     },
     {
         "Titulo": "Guia de interpretação da Flora da Reserva Natural da Lagoa do Fogo",
@@ -1451,7 +1482,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Barco e o Sonho.jpg"
     },
     {
         "Titulo": "Notas de Campo na Beira Baixa",
@@ -1460,7 +1492,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Zoologia e Botânica",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NotasDeCampoNaBeiraBaixa.jpg"
     },
     {
         "Titulo": "História Natural dos Açores",
@@ -1518,7 +1551,9 @@ items = [
         "Categoria": "DVD",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OsUltimosPriolos.jpg"
+
     },
     {
         "Titulo": "O Sapo ajuda... - Testes de Avaliação",
@@ -1527,7 +1562,8 @@ items = [
         "Categoria": "DVD",
         "Sub_Categoria": "Ciências da Natureza",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OSapoAjudaTestesDeAvaliação.jpg"
     },
     {
         "Titulo": "Roteiro dos Museos",
@@ -1705,7 +1741,8 @@ items = [
         "Categoria": "Ciências",
         "Sub_Categoria": "Revista",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Panorama Spokes 2018.jpg"
     },
     {
         "Titulo": "Panorama Spokes",
@@ -1714,7 +1751,8 @@ items = [
         "Categoria": "Ciências",
         "Sub_Categoria": "Revista",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Panorama Spokes 2017.jpg"
     },
     {
         "Titulo": "Together",
@@ -1761,7 +1799,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OGM - Organissmos Geneticamente Modificados.jpg"
     },
     {
         "Titulo": "O Milhafre uma história natural",
@@ -1770,7 +1809,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Milhafre uma História Natural.jpg"
     },
     {
         "Titulo": "A Terra Aquece, Arrefeça-a",
@@ -1939,7 +1979,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/PorqueEEscuraANoite.jpg"
     },
     {
         "Titulo": "Eu sei ler: O Capuchinho Vermelho ",
@@ -1948,7 +1989,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OCapuchinhoVermelho.jpg"
     },
     {
         "Titulo": "A chuva e o bom tempo",
@@ -1967,7 +2009,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OFogoEVida.jpg"
     },
     {
         "Titulo": "Sabes porque é que a terra é vida",
@@ -1986,7 +2029,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OArEVida.jpg"
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Robots",
@@ -2014,7 +2058,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Materiais.jpg"
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Clima",
@@ -2082,7 +2127,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OMisterioDaLagarta.jpg"
     },
     {
         "Titulo": "Branca de Neve e Outras Histórias",
@@ -2271,7 +2317,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Mistério da Vida.jpg"
     },
     {
         "Titulo": "Da célula ao universo - 11º ano",
@@ -2387,7 +2434,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Planeta Terra 9.jpg"
     },
     {
         "Titulo": "Terra Mãe CFQ: Sustentabilidade na Terra",
@@ -2455,7 +2503,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Matematicamente Falando 5 - Caderno de Actividades.jpg"
     },
     {
         "Titulo": "Descobrir a Terra - 7º ano - Caderno de atividades ",
@@ -2474,7 +2523,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Matemáticamente Falando 5 Parte 1.jpg"
     },
     {
         "Titulo": "Matematicamente falando - 5º ano - Parte 2",
@@ -2483,7 +2533,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Matemáticamente Falando 5 Parte 2.jpg"
     },
     {
         "Titulo": "Matematicamente falando - 8º ano - Parte 1",
@@ -2492,7 +2543,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Matematicamente Falando 8 Parte 1.jpg"
     },
     {
         "Titulo": "Matematicamente falando - 8º ano - Parte 2",
@@ -2501,7 +2553,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Matemáticamente Falando 8 Parte 2.jpg"
     },
     {
         "Titulo": "Matematicamente falando - 8º ano - Caderno de atividades",
@@ -2510,7 +2563,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Matemáticamente Falando 8 - Caderno de Actividades.jpg"
     },
     {
         "Titulo": "Escritas em dia - Fichas de ortografia para diferenciação na sala de aula - 3º ano",
@@ -2559,7 +2613,8 @@ items = [
         "Categoria": "Estudo do Meio",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Mundo da Carochinha Livro Aluno.jpg"
     },
     {
         "Titulo": "O Mundo da Carochinha: Fichas de Avaliação Mensal",
@@ -2568,7 +2623,8 @@ items = [
         "Categoria": "Estudo do Meio",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Mundo da Carochinha Fichas de Avaliação Mensal.jpg"
     },
     {
         "Titulo": "O Mundo da Carochinha: Expressão Plástica",
@@ -2577,7 +2633,8 @@ items = [
         "Categoria": "Estudo do Meio",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Mundo da Carochinha - Expressão Plástica.jpg"
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 1: O Patinho Feio",
@@ -2705,7 +2762,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/PeterPanEPinoquio.jpg"
     },
     {
         "Titulo": "Descobrir a Ciência Brincando: De onde vem a Eletricidade?",
@@ -2724,7 +2782,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ParabensIgor.jpg"
     },
     {
         "Titulo": "As minhas primeiras Leituras: Que dia tão Bonito!",
@@ -2733,7 +2792,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/QueDiaTaoBonito.jpg"
     },
     {
         "Titulo": "Dicionário Infantil do Ambiente",
@@ -2762,7 +2822,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OsTalheresMagicosDoTitanic.jpg"
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: 101 Dálmatas",
@@ -2790,7 +2851,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OCorcundadeNotreDame.jpg"
     },
     {
         "Titulo": "As Aventuras de TinTim: Os Charutos do Faraó",
@@ -2817,7 +2879,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OsMaisBelosContosDeAndersen.jpg"
     },
     {
         "Titulo": "Aladino e a Lâmpada maravilhosa",
@@ -2836,7 +2899,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Peter Pan.jpg"
     },
     {
         "Titulo": "O gigante e os morangos - 3º  edição",
@@ -2845,7 +2909,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Gigante e os morangos.jpg"
     },
     {
         "Titulo": "Bichos grandes: A tartaruga azul ",
@@ -2864,7 +2929,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Quero um Dinossáurio.jpg"
     },
     {
         "Titulo": "Gente Diferente: Um Livro com janelinhas ",
@@ -2991,7 +3057,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OLeaoEORato.jpg"
     },
     {
         "Titulo": "Um livro de Olhos Marotos: O Carro Bombeiro Matias",
@@ -3000,7 +3067,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/OCarroBombeiroMatias.jpg"
     },
     {
         "Titulo": "Luta de Galos",
@@ -3019,7 +3087,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Ladrão Insolente.jpg"
     },
     {
         "Titulo": "O Eclipse",
@@ -3028,7 +3097,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Eclipse.jpg"
     },
     {
         "Titulo": "O meu primeiro livro sobre Tudo o que voa",
@@ -3037,7 +3107,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Meu Primeiro Livro sobre Tudo o que Voa.jpg"
     },
     {
         "Titulo": "Maravilhas da natureza",
@@ -3086,7 +3157,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Lobo e os sete Cabritos.jpg"
     },
     {
         "Titulo": "A Bela adormecida",
@@ -3105,7 +3177,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Polegarzinho.jpg"
     },
     {
         "Titulo": "O rei da selva",
@@ -3114,7 +3187,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Livro para colorir",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Rei da Selva.jpg"
     },
     {
         "Titulo": "Contos de encantar: O livro da selva",
@@ -3123,7 +3197,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Livro da Selva.jpg"
     },
     {
         "Titulo": "O passeio do papagaio de papel",
@@ -3132,7 +3207,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Passeio do Papagaio de Papel.jpg"
     },
     {
         "Titulo": "A minha primeira biblioteca: O gato das botas",
@@ -3141,7 +3217,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Gato das Botas.jpg"
     },
     {
         "Titulo": "As aventuras que eu gosto de ler: Heidi ",
@@ -3170,7 +3247,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Mistérios Disney - Os Fantasmas Existem.jpg"
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: Pinóquio",
@@ -3189,7 +3267,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Os Aristogatos.jpg"
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: O livro da selva",
@@ -3218,7 +3297,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Pato que veio do Frio.jpg"
     },
     {
         "Titulo": "Winnie the pooh: Tudo pode ser divertido",
@@ -3236,7 +3316,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Alfaiate Valentão.jpg"
     },
     {
         "Titulo": "Pinóquio",
@@ -3275,7 +3356,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Relict Species.jpg"
     },
     {
         "Titulo": "Top 100: Las cien especies amenazadas prioritarias de gestión en la región europea biogeográfica de la Macaronesia, As cem espécies ameaçadas prioritárias em terms de gestão na região europeia biogeográfica da Macaronesia",
@@ -3343,7 +3425,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Plantas Usadas na Medicina Popular.jpg"
     },
     {
         "Titulo": "Pensar como uma Montanha de Aldo Leopold: Um caminho de Educação e Ética Ambiental",
@@ -3352,7 +3435,8 @@ items = [
         "Categoria": "Ecologia",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Pensar como uma Montanha de Aldo Leopold Um Caminho de Educação e Ética Ambiental.jpg"
     },
     {
         "Titulo": "Associativismo Ambiental: O caso dos amigos dos Açores",
@@ -3371,7 +3455,8 @@ items = [
         "Categoria": "Caderno Escolar",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Rapinas Belas e Úteis Caderno Escolar.jpg"
     },
     {
         "Titulo": "Mar e Sociedade: Curiosidades para quem gosta do mar",
@@ -3400,7 +3485,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Ordenamento do Território nos Açores política e instrumentos.jpg"
     },
     {
         "Titulo": "Vulcão das sete cidades. Volcano - História Natural - Natural History - Um Guia - A Guide - Açores - Azores",
@@ -3418,7 +3504,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "História",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Our Ocean - Marine Legends.jpg"
     },
     {
         "Titulo": "Gunther Maul: Museu, natureza e ciência",
@@ -3495,7 +3582,8 @@ items = [
         "Categoria": "Ecologia",
         "Sub_Categoria": "DVD",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Priolo. Filme.jpg"
     },
     {
         "Titulo": "Lagoas do Congro e dos Nenúfares: Proposta de recuperação e gestão da Cratera",
@@ -3537,13 +3625,14 @@ items = [
         "Imagem": "/livros/Flora Vascular dos Açores Prioridades em Conservação.jpg"
     },
     {
-        "Titulo": "O Pirolo e a floresta natural de altitude",
+        "Titulo": "O Priolo e a floresta natural de altitude",
         "Autor": "Jaime Albino Ramos",
         "Ano": ">2003",
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O Priolo e a Floresta Natural de Altitude.jpg"
     },
     {
         "Titulo": "Guia do Consumidor do Pescado dos Açores - Consumer's Guide to Azorean Seafood",
@@ -3562,7 +3651,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Vulcanologia e Geotérmica",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Mistério do Vulcão da Urzelina da Ilha de São Jorge dos Açores.jpg"
     },
     {
         "Titulo": "Lagoas e Lagoeiros do Concelho de Ponta Delgada",
@@ -3601,7 +3691,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Natal Verde.jpg"
     },
     {
         "Titulo": "Arquipelago: Life and Marine Sciences Nº 36",
@@ -3640,7 +3731,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Migrações de Aves.jpg"
     },
     {
         "Titulo": "As Plantas Invasoras: Uma história contada pela Faia-da-terra",
@@ -3659,7 +3751,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Parque Natural Regional da Plataforma Costeira das Lajes do Pico.jpg"
     },
     {
         "Titulo": "O género Puffinus nas ilhas dos Açores: Considerações sobre as espécies atlânticas do género Puffinus",
@@ -3668,7 +3761,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/O género Puffinus nas ilhas dos Açores.jpg"
     },
     {
         "Titulo": "Áreas Protegidas e Turismo-Conflito Intransponível?",
@@ -3687,7 +3781,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geotérmica",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Proposta de Intervenção Museológica na Gruta do Carvão, Ilha de S. Miguel.jpg"
     },
     {
         "Titulo": "Marque encontro com a natureza",
@@ -3802,7 +3897,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geotérmica",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Mística e Nuvens do Vulcão do Pico.jpg"
     },
     {
         "Titulo": "Rodando a Ilha Verde: S. Miguel - Açores",
@@ -3820,7 +3916,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Museu",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/MemoriaDoConvento.jpg"
     },
     {
         "Titulo": "Evolucionismo nos Açores e Outros Estudos",
@@ -3936,7 +4033,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Os fósseis de Santa Maria (Açores).jpg"
     },
     {
         "Titulo": "Monte Brasil: Percursos de Interpretação Ambiental",
@@ -3945,7 +4043,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Monte Brasil.jpg"
     },
     {
         "Titulo": "Guerra do Ultramar: Caminhando pela Memória e Pela História",
@@ -3993,7 +4092,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Mauro e Emília.jpg"
     },
     {
         "Titulo": "Alfonso Olalla and His Family: The ornithological Exploration of Amazonian Peru",
@@ -4748,7 +4848,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Pico.jpg"
     },
     {
         "Titulo": "Azores a natural portrait",
@@ -4796,7 +4897,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Geomorfologia, Vulcanologia e Petrologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/NaRotadosVulcoesDaIlhaDoFaial.jpg"
     },
     {
         "Titulo": "A Diversidade na Orla Costeira: Da Caloura a Ponta Garça",
