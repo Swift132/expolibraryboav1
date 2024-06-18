@@ -488,6 +488,7 @@ items = [
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
+        "Imagem": "/livros/CatalogodeCDROMS.jpg"
     },
     {
         "Titulo": "Catálogo de Videogramas",
@@ -496,7 +497,8 @@ items = [
         "Categoria": "Escolar",
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/CatalogodeVideogramas.jpg"
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 106",
@@ -1169,7 +1171,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/CalculoMatricialVolumeIIExemploseAplicações.jpg"
     },
     {
         "Titulo": "Matemática Exercícios Primitivas Integrais",
@@ -1187,7 +1190,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/CalculoDiferencialeIntegralVolumeII.jpg"
     },
     {
         "Titulo": "Cálculo Diferencial e Integral - Volume I",
@@ -1196,7 +1200,8 @@ items = [
         "Categoria": "Matemática",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/CalculoDiferencialeIntegralVolumeI.jpg"
     },
     {
         "Titulo": "Matemática Formulário",
@@ -1261,7 +1266,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/CicloDoAzeite.jpg"
     },
     {
         "Titulo": "Albert I do Mónaco, Afonso Chaves e a Meteorologia Nos Açores",
@@ -1651,7 +1657,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Zoologia e Botânica",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/CharcosTemporariosDoSulDePortugal.jpg"
     },
     {
         "Titulo": "Circuitos Ciência Viva - 4ª edição",
@@ -1879,7 +1886,8 @@ items = [
         "Categoria": "Ciências",
         "Sub_Categoria": "Revista",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Ciência Viva.jpg"
     },
     {
         "Titulo": "Esponjas ",
@@ -3763,7 +3771,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Catálogo das Plantas Vasculares dos Açores.jpg"
     },
     {
         "Titulo": "Briófitos Raros dos Açores & Azorean Rare Bryophytes",
@@ -3864,7 +3873,8 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Microbiologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Caminhos de Ciência.jpg"
     },
     {
         "Titulo": "Mauro e Emília: Os nossos cágados estão em perigo. Vamos ajudá-los! - Mauro y Emília: Nuestras tortugas están en peligro. iVamos a ayudarlas!",
@@ -4047,7 +4057,8 @@ items = [
         "Categoria": "Biologia e Entomologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Espanhol e Alemão",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Bulletin de L'Institut Royal Des Sciences Naturelles de Belgique.jpg"
     },
     {
         "Titulo": "A Castanha na Mesa de Bragança",
