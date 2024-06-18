@@ -1558,7 +1558,8 @@ items = [
         "Categoria": "Ecologia",
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/GrandeEnciclopediaEcologia.jpg"
     },
     {
         "Titulo": "Grande Enciclopédia das Ciências, Tecnologia e Natureza - Geografia",
@@ -1567,7 +1568,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/GrandeEnciclopediaGeografia.jpg"
     },
     {
         "Titulo": "Grande Enciclopédia das Ciências, Tecnologia e Natureza - Máquinas e Inventos",
