@@ -10,7 +10,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXIV.jpg"
+        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Revista de La Academia Canaria de Ciencias - Volumen XXIX",
@@ -20,7 +21,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXIX.jpg"
+        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXIX.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Revista de La Academia Canaria de Ciencias - Volumen XXX",
@@ -30,7 +32,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXX.jpg"
+        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXX.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Revista de La Academia Canaria de Ciencias - Volumen XXXIII",
@@ -40,7 +43,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXIII.jpg"
+        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXXIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Revista de La Academia Canaria de Ciencias - Volumen XXXIV",
@@ -50,7 +54,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXIV.jpg"
+        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXXIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LI - 2ª série, 51",
@@ -60,7 +65,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLI.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LII - 2ª série, 52",
@@ -70,7 +76,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLII.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LIII - 2ª série, 53 - 1º Parte",
@@ -80,7 +87,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIII1.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIII1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LIII - 2ª série, 53 - 2º Parte",
@@ -90,7 +98,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIII2.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIII2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LIV - 2ª série, 54",
@@ -100,7 +109,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIV.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LV - 2ª série, 55",
@@ -110,7 +120,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLV.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LVI- 2ª série, 56",
@@ -120,7 +131,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLVI.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLVI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LVII - 2ª série, 57",
@@ -130,7 +142,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLVII.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLVII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LVIII - 2ª série, 58",
@@ -140,7 +153,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLVIII.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLVIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LIX - 2ª série, 59",
@@ -150,7 +164,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIX.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLIX.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LX - 2ª série, 60",
@@ -160,7 +175,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLX.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLX.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXI - 2ª série, 61",
@@ -170,7 +186,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXI.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXII - 2ª série, 62",
@@ -180,7 +197,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXII.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXV - 2ª série, 65",
@@ -190,7 +208,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXV.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXVI - 2ª série, 66",
@@ -200,7 +219,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXVI.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXVI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXVII - 2ª série, 67",
@@ -210,7 +230,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXVII.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXVII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LXVIII - 2ª série, 68",
@@ -220,16 +241,19 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXVIII.jpg"
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXVIII.jpg",
+        "Quantidade": 1
     },
     {
-        "Titulo": "Boletim Da Sociedade Broteriana - Volume LXVIX, 69",
+        "Titulo": "Boletim Da Sociedade Broteriana - Volume LXIX, 69",
         "Autor": "Prof. Dr. J. Firmino Mesquita e Dr.ª Maria Teresa Leitão",
         "Ano": "1998-1999",
         "Categoria": "Biologia",
         "Sub_Categoria": "Botânica",
         "Linguagem": "Multi idiomas",
         "Material": "Não Plastificado",
+        "Imagem": "/livros/BoletimDaSociedadeBroterianaVolumeLXIX.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 91",
@@ -239,7 +263,8 @@ items = [
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaturforschendenGesellschaftBand91.jpg"
+        "Imagem": "/livros/NaturforschendenGesellschaftBand91.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 92 - Heft 1",
@@ -249,7 +274,8 @@ items = [
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaturforschendenGesellschaftBand92Heft1.jpg"
+        "Imagem": "/livros/NaturforschendenGesellschaftBand92Heft1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 92 - Heft 2",
@@ -259,7 +285,8 @@ items = [
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaturforschendenGesellschaftBand92Heft2.jpg"
+        "Imagem": "/livros/NaturforschendenGesellschaftBand92Heft2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 93",
@@ -269,7 +296,8 @@ items = [
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaturforschendenGesellschaftBand93.jpg"
+        "Imagem": "/livros/NaturforschendenGesellschaftBand93.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 95/1",
@@ -279,7 +307,8 @@ items = [
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaturforschendenGesellschaftBand951.jpg"
+        "Imagem": "/livros/NaturforschendenGesellschaftBand951.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 95/2",
@@ -289,7 +318,8 @@ items = [
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaturforschendenGesellschaftBand952.jpg"
+        "Imagem": "/livros/NaturforschendenGesellschaftBand952.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 96",
@@ -299,7 +329,8 @@ items = [
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaturforschendenGesellschaftBand96.jpg"
+        "Imagem": "/livros/NaturforschendenGesellschaftBand96.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 97/1",
@@ -309,7 +340,8 @@ items = [
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaturforschendenGesellschaftBand971.jpg"
+        "Imagem": "/livros/NaturforschendenGesellschaftBand971.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 98",
@@ -319,7 +351,8 @@ items = [
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaturforschendenGesellschaftBand98.jpg"
+        "Imagem": "/livros/NaturforschendenGesellschaftBand98.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Berichte der Naturforschenden Gesellschaft - Band 99",
@@ -329,7 +362,8 @@ items = [
         "Sub_Categoria": "Geociência",
         "Linguagem": "Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaturforschendenGesellschaftBand99.jpg"
+        "Imagem": "/livros/NaturforschendenGesellschaftBand99.jpg",
+        "Quantidade": 1
         
     },
     {
@@ -340,7 +374,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen531.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen531.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 53(2)",
@@ -350,7 +385,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen532.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen532.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 54(1)",
@@ -360,7 +396,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen541.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen541.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 54(2)",
@@ -370,7 +407,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen542.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen542.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 55(1)",
@@ -380,7 +418,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen551.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen551.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 55(2)",
@@ -390,7 +429,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen552.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen552.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 56(1)",
@@ -400,7 +440,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen561.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen561.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 56(2)",
@@ -410,7 +451,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen562.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen562.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 57(1)",
@@ -420,7 +462,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen571.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen571.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 57(2)",
@@ -430,7 +473,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen572.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen572.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 58(1)",
@@ -440,7 +484,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen581.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen581.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 58(2)",
@@ -450,7 +495,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen582.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen582.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 59(1)",
@@ -460,7 +506,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen591.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen591.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 59(2)",
@@ -470,7 +517,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen592.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen592.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 60(1)",
@@ -480,7 +528,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen601.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen601.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Volumen 60(2)",
@@ -490,7 +539,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen601.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadridVolumen601.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Catálogo de CD ROM'S",
@@ -500,7 +550,8 @@ items = [
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/CatalogodeCDROMS.jpg"
+        "Imagem": "/livros/CatalogodeCDROMS.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Catálogo de Videogramas",
@@ -510,7 +561,8 @@ items = [
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/CatalogodeVideogramas.jpg"
+        "Imagem": "/livros/CatalogodeVideogramas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 106",
@@ -520,7 +572,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennicaNo106.jpg"
+        "Imagem": "/livros/ActaBotanicaFennicaNo106.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 107",
@@ -530,7 +583,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennicaNo107.jpg"
+        "Imagem": "/livros/ActaBotanicaFennicaNo107.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 108",
@@ -540,7 +594,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennicaNo108.jpg"
+        "Imagem": "/livros/ActaBotanicaFennicaNo108.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 109",
@@ -550,7 +605,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennicaNo109.jpg"
+        "Imagem": "/livros/ActaBotanicaFennicaNo109.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 120",
@@ -560,7 +616,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica120.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica120.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 121",
@@ -570,7 +627,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica121.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica121.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 122",
@@ -580,7 +638,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica122.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica122.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 123",
@@ -590,7 +649,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica123.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica123.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 124",
@@ -600,7 +660,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica124.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica124.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 125",
@@ -610,7 +671,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica125.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica125.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 126",
@@ -620,7 +682,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica126.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica126.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 127",
@@ -630,7 +693,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica127.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica127.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 128",
@@ -640,7 +704,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Finlandês e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica128.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica128.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 129",
@@ -650,7 +715,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica129.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica129.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 130",
@@ -660,7 +726,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica130.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica130.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 131",
@@ -670,7 +737,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica131.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica131.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - No. 133",
@@ -680,7 +748,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica133.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica133.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - 142",
@@ -690,7 +759,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica142.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica142.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - 145",
@@ -700,7 +770,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica145.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica145.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - 146",
@@ -710,7 +781,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica146.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica146.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - 147",
@@ -720,7 +792,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica147.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica147.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Annales Botanici Fennici - Vol. 29 no. 2",
@@ -730,7 +803,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnnalesBotaniciFenniciVol29No2.jpg"
+        "Imagem": "/livros/AnnalesBotaniciFenniciVol29No2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Annales Botanici Fennici - Vol. 29 no. 3",
@@ -740,7 +814,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnnalesBotaniciFenniciVol29No3.jpg"
+        "Imagem": "/livros/AnnalesBotaniciFenniciVol29No3.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Annales Botanici Fennici - Vol. 29 no. 4",
@@ -750,7 +825,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnnalesBotaniciFenniciVol29No4.jpg"
+        "Imagem": "/livros/AnnalesBotaniciFenniciVol29No4.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Annales Botanici Fennici - Vol. 30 no. 1",
@@ -760,7 +836,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnnalesBotaniciFenniciVol30No1.jpg"
+        "Imagem": "/livros/AnnalesBotaniciFenniciVol30No1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - 148",
@@ -770,7 +847,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica148.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica148.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - 150",
@@ -780,7 +858,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica150.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica150.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica - 153",
@@ -790,7 +869,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennica153.jpg"
+        "Imagem": "/livros/ActaBotanicaFennica153.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica No. 169",
@@ -800,7 +880,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennicaNo169.jpg"
+        "Imagem": "/livros/ActaBotanicaFennicaNo169.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica  No. 174",
@@ -810,7 +891,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennicaNo174.jpg"
+        "Imagem": "/livros/ActaBotanicaFennicaNo174.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Acta Botanica Fennica  No. 177",
@@ -820,7 +902,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActaBotanicaFennicaNo177.jpg"
+        "Imagem": "/livros/ActaBotanicaFennicaNo177.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 35 No. 5 & 6",
@@ -830,7 +913,8 @@ items = [
         "Sub_Categoria": "Antropologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume35N5E6.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume35N5E6.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 50 No. 2",
@@ -840,7 +924,8 @@ items = [
         "Sub_Categoria": "Antropologia e Arqueologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume50N2.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume50N2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 50 No. 3",
@@ -850,7 +935,8 @@ items = [
         "Sub_Categoria": "Antropologia e Arqueologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume50N3.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume50N3.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 51 No. 1",
@@ -860,7 +946,8 @@ items = [
         "Sub_Categoria": "Malacologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume51N1.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume51N1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 51 No. 2 & 3",
@@ -870,7 +957,8 @@ items = [
         "Sub_Categoria": "Taxonomia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume51N2E3.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume51N2E3.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 52 No. 1",
@@ -880,7 +968,8 @@ items = [
         "Sub_Categoria": "Taxonomia, Anatomia e Ecologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume52N1.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume52N1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 52 No. 3",
@@ -890,7 +979,8 @@ items = [
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume52N3.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume52N3.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Vol. 53 No. 2",
@@ -900,7 +990,8 @@ items = [
         "Sub_Categoria": "Entomologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume53N2.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumVolume53N2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Supplement 5",
@@ -910,7 +1001,8 @@ items = [
         "Sub_Categoria": "Antropologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement5.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement5.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Supplement 6",
@@ -920,7 +1012,8 @@ items = [
         "Sub_Categoria": "Antropologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement6.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement6.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Supplement 9",
@@ -930,7 +1023,8 @@ items = [
         "Sub_Categoria": "Antropologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement9.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement9.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Supplement 25",
@@ -940,7 +1034,8 @@ items = [
         "Sub_Categoria": "Taxonomia, Filogenia e Biogeografia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement25.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement25.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Records Of The Australian Museum Supplement 26",
@@ -950,7 +1045,8 @@ items = [
         "Sub_Categoria": "Entomologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement26.jpg"
+        "Imagem": "/livros/RecordsOfTheAustralianMuseumSupplement26.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 61 (1)",
@@ -960,7 +1056,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid611.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid611.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 61 (2)",
@@ -970,7 +1067,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid612.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid612.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 62 (1)",
@@ -980,7 +1078,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid621.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid621.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 62 (2)",
@@ -990,7 +1089,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid622.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid622.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 63 (1)",
@@ -1000,7 +1100,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid631.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid631.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 63 (2)",
@@ -1010,7 +1111,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid632.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid632.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 64 (1)",
@@ -1020,7 +1122,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid641.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid641.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 64 (2)",
@@ -1030,7 +1133,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid642.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid642.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 65 (1)",
@@ -1040,7 +1144,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid651.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid651.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 65 (2)",
@@ -1050,7 +1155,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid652.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid652.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 66 S1",
@@ -1060,7 +1166,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid66S1.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid66S1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 66 (1)",
@@ -1070,7 +1177,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid661.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid661.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 66 (2)",
@@ -1080,7 +1188,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid662.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid662.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 67 (1)",
@@ -1090,7 +1199,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid671.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid671.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 67 (2)",
@@ -1100,7 +1210,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid672.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid672.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Anales Del Jardín Botánico De Madrid - Vol. 68 (1)",
@@ -1110,7 +1221,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Inglês e Espanhol",
         "Material": "Plastificado",
-        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid681.jpg"
+        "Imagem": "/livros/AnalesDelJardinBotanicoDeMadrid681.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Actas Del V. Simposio Iberico Del Bentos Marino - Tomo I",
@@ -1120,7 +1232,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActasDelVSimposioIbericoDelBentosMarinoTomoI.jpg"
+        "Imagem": "/livros/ActasDelVSimposioIbericoDelBentosMarinoTomoI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Actas Del V. Simposio Iberico Del Bentos Marino - Tomo II",
@@ -1130,7 +1243,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ActasDelVSimposioIbericoDelBentosMarinoTomoII.jpg"
+        "Imagem": "/livros/ActasDelVSimposioIbericoDelBentosMarinoTomoII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Cálculo Diferencial em IR - 2ª edição",
@@ -1140,7 +1254,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaCalculoDiferencialemIR.jpg"
+        "Imagem": "/livros/MatematicaCalculoDiferencialemIR.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Bioquímica",
@@ -1150,7 +1265,8 @@ items = [
         "Sub_Categoria": "Bioquímica",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BioquimicaEdicaoRevista.jpg"
+        "Imagem": "/livros/BioquimicaEdicaoRevista.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Química - 5ª edição",
@@ -1160,7 +1276,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Quimica5Edição.jpg"
+        "Imagem": "/livros/Quimica5Edição.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Microbiologia - volume 1",
@@ -1170,7 +1287,8 @@ items = [
         "Sub_Categoria": "Microbiologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MicrobiologiaVolume1.jpg"
+        "Imagem": "/livros/MicrobiologiaVolume1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia Celular e Molecular - 3ª edição",
@@ -1180,7 +1298,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BiologiaCelularEMolecular.jpg"
+        "Imagem": "/livros/BiologiaCelularEMolecular.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Análise Matemática Primitivas Integrais Aplicações Exercícios resolvidos e propostos - 3º Volume",
@@ -1190,7 +1309,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AnaliseMatematica.jpg"
+        "Imagem": "/livros/AnaliseMatematica.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Cálculo Matricial Volume II - Exemplos e Aplicações",
@@ -1200,7 +1320,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/CalculoMatricialVolumeIIExemploseAplicações.jpg"
+        "Imagem": "/livros/CalculoMatricialVolumeIIExemploseAplicações.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Exercícios Primitivas Integrais",
@@ -1210,7 +1331,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaExerciciosPrimitivasIntegrais.jpg"
+        "Imagem": "/livros/MatematicaExerciciosPrimitivasIntegrais.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Cálculo Diferencial e Integral - Volume II",
@@ -1220,7 +1342,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/CalculoDiferencialeIntegralVolumeII.jpg"
+        "Imagem": "/livros/CalculoDiferencialeIntegralVolumeII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Cálculo Diferencial e Integral - Volume I",
@@ -1230,7 +1353,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/CalculoDiferencialeIntegralVolumeI.jpg"
+        "Imagem": "/livros/CalculoDiferencialeIntegralVolumeI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Formulário",
@@ -1240,7 +1364,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaFormulario.jpg"
+        "Imagem": "/livros/MatematicaFormulario.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Nova Fisica Divertida",
@@ -1250,7 +1375,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NovaFisicaDivertida.jpg"
+        "Imagem": "/livros/NovaFisicaDivertida.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Ciencia e os Seus Inimigos",
@@ -1260,7 +1386,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ACienciaEOsSeusInimigos.jpg"
+        "Imagem": "/livros/ACienciaEOsSeusInimigos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Os Ursinhos Folgazões Festa de Anos Surpresa",
@@ -1270,7 +1397,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OsUrsinhosFolgazoesFestaDeAnosSurpresa.jpg"
+        "Imagem": "/livros/OsUrsinhosFolgazoesFestaDeAnosSurpresa.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Os Ursinhos Folgazões Uma Boa Ação",
@@ -1280,7 +1408,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OsUrsinhosFolgazoesUmaBoaAccao.jpg"
+        "Imagem": "/livros/OsUrsinhosFolgazoesUmaBoaAccao.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ali Babá e Os Quarenta Ladrões",
@@ -1290,7 +1419,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Francês e Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AliBabaEOsQuarentaLadroes.jpg"
+        "Imagem": "/livros/AliBabaEOsQuarentaLadroes.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ciclo do Azeite",
@@ -1300,7 +1430,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/CicloDoAzeite.jpg"
+        "Imagem": "/livros/CicloDoAzeite.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Albert I do Mónaco, Afonso Chaves e a Meteorologia Nos Açores",
@@ -1309,7 +1440,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Francês e Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ten Years Ten Portraits",
@@ -1319,7 +1451,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Ten Years - Ten Protraits.jpg"
+        "Imagem": "/livros/Ten Years - Ten Protraits.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Um Mar Cheio de Vida - A Sea Full of Life",
@@ -1329,7 +1462,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/UmMarCheiodeVidaVisoesdosAcores.jpg"
+        "Imagem": "/livros/UmMarCheiodeVidaVisoesdosAcores.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Guia de História Natural da Ilha do Pico - Pico Island Natural History Hanbook",
@@ -1339,7 +1473,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/GuiadeHistoriaNaturaldaIlhadoPico.jpg"
+        "Imagem": "/livros/GuiadeHistoriaNaturaldaIlhadoPico.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Um bosque perto de si - Conhecer ecossistemas florestais",
@@ -1349,7 +1484,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/UmBosquePertoDeSi.jpg"
+        "Imagem": "/livros/UmBosquePertoDeSi.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O mundo de Gaspar Frutuoso",
@@ -1359,7 +1495,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OMundoDeGasparFrutuoso.jpg"
+        "Imagem": "/livros/OMundoDeGasparFrutuoso.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia Um ano de Ciência",
@@ -1369,7 +1506,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BiologiaUmAnoDeCiencia.jpg"
+        "Imagem": "/livros/BiologiaUmAnoDeCiencia.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Relação da Primeira Viagem Em Torno do Mundo",
@@ -1379,7 +1517,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Plastificado",
-        "Imagem": "/livros/AntonioPigafettaRelacaoDaPrimeiraViagemEmTornoDoMundo.jpg"
+        "Imagem": "/livros/AntonioPigafettaRelacaoDaPrimeiraViagemEmTornoDoMundo.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Atlantida",
@@ -1389,7 +1528,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Atlantida.jpg"
+        "Imagem": "/livros/Atlantida.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Plantas dos Açores",
@@ -1399,7 +1539,8 @@ items = [
         "Sub_Categoria": "Cultura dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/PlantasdosAçores.jpg"
+        "Imagem": "/livros/PlantasdosAçores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Plantas Ornamentais dos Açores",
@@ -1409,7 +1550,8 @@ items = [
         "Sub_Categoria": "Cultura dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/PlantasOrnamentaisdosAçores.jpg"
+        "Imagem": "/livros/PlantasOrnamentaisdosAçores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Guia de interpretação da Flora da Reserva Natural da Lagoa do Fogo",
@@ -1419,7 +1561,8 @@ items = [
         "Sub_Categoria": "Cultura dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/GuiaDeInterpretaçãoDaFloraDaReservaNaturalDaLagoaDoFogo.jpg"
+        "Imagem": "/livros/GuiaDeInterpretaçãoDaFloraDaReservaNaturalDaLagoaDoFogo.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Insvlana - Órgão do Instituto Cultural de Ponta Delgada - LXVI",
@@ -1429,7 +1572,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Insvlana2010.jpg"
+        "Imagem": "/livros/Insvlana2010.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Insvlana - Órgão do Instituto Cultural de Ponta Delgada - LXVIII",
@@ -1439,7 +1583,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Insvlana2012.jpg"
+        "Imagem": "/livros/Insvlana2012.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Flora da Madeira - Plantas Vasculares Naturalizadas no Arquipélago da Madeira",
@@ -1449,7 +1594,8 @@ items = [
         "Sub_Categoria": "Botânica",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/FloraDaMadeiraPlantasVascularesNaturalizadasNoArquipelagoDaMadeira.jpg"
+        "Imagem": "/livros/FloraDaMadeiraPlantasVascularesNaturalizadasNoArquipelagoDaMadeira.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "As atitudes face ao ambiente em Regiões Periféricas",
@@ -1459,7 +1605,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AsAtitudesFaceAoAmbienteEmRegioesPerifericas.jpg"
+        "Imagem": "/livros/AsAtitudesFaceAoAmbienteEmRegioesPerifericas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Towards planning of seafloor observatory programs for the MAR region - Proceedings of the II MoMAR Workshop - Arquipélago - Life and Marine Sciences Supplement 3",
@@ -1469,7 +1616,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/TowardsPlanningOfSeafloorObservatoryProgramsForTheMarRegion.jpg"
+        "Imagem": "/livros/TowardsPlanningOfSeafloorObservatoryProgramsForTheMarRegion.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Fauna and Flora of the Atlantic Islands - Proceedings of the 3rd symposium - Part A - Arquipélago - Life and Marine Sciences Supplement 2 ",
@@ -1479,7 +1627,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/FaunaAndFloraOfTheAtlanticIslands.jpg"
+        "Imagem": "/livros/FaunaAndFloraOfTheAtlanticIslands.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Barco e O Sonho",
@@ -1489,7 +1638,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Barco e o Sonho.jpg"
+        "Imagem": "/livros/O Barco e o Sonho.jpg",
+        "Quantidade": 10
     },
     {
         "Titulo": "Notas de Campo na Beira Baixa",
@@ -1499,7 +1649,8 @@ items = [
         "Sub_Categoria": "Zoologia e Botânica",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NotasDeCampoNaBeiraBaixa.jpg"
+        "Imagem": "/livros/NotasDeCampoNaBeiraBaixa.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "História Natural dos Açores",
@@ -1509,7 +1660,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/HistoriaNaturalDosAcores.jpg"
+        "Imagem": "/livros/HistoriaNaturalDosAcores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açores Magiae Naturalis",
@@ -1519,7 +1671,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AcoresMagiaeNaturalis.jpg"
+        "Imagem": "/livros/AcoresMagiaeNaturalis.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Boletim",
@@ -1529,7 +1682,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Boletim.jpg"
+        "Imagem": "/livros/Boletim.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Cultura Sefardita no Nordeste Transmontano",
@@ -1539,7 +1693,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ACulturaSefarditaNoNordesteTransmontano.jpg"
+        "Imagem": "/livros/ACulturaSefarditaNoNordesteTransmontano.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "The Volcanoes of Azores Islands: a world-class heritage -  example from Terceira, Pico, and Faial Islands",
@@ -1549,7 +1704,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/TheVolcanoesOfAzoresIslandsAWorldClassHeritage.jpg"
+        "Imagem": "/livros/TheVolcanoesOfAzoresIslandsAWorldClassHeritage.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Os Últimos Priolos - The Last Azores Bullfinches",
@@ -1559,7 +1715,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OsUltimosPriolos.jpg"
+        "Imagem": "/livros/OsUltimosPriolos.jpg",
+        "Quantidade": 1
 
     },
     {
@@ -1570,7 +1727,8 @@ items = [
         "Sub_Categoria": "Ciências da Natureza",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OSapoAjudaTestesDeAvaliação.jpg"
+        "Imagem": "/livros/OSapoAjudaTestesDeAvaliação.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Roteiro dos Museos",
@@ -1580,7 +1738,8 @@ items = [
         "Sub_Categoria": "Roteiro",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BragancaMunicipio.jpg"
+        "Imagem": "/livros/BragancaMunicipio.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Blue Azores",
@@ -1590,7 +1749,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Blue Azores.jpg"
+        "Imagem": "/livros/BlueAzores.jpg",
+        "Quantidade": 9
     },
     {
         "Titulo": "Grande Enciclopédia das Ciências, Tecnologia e Natureza - A evolução da vida",
@@ -1600,7 +1760,8 @@ items = [
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/GrandeEnciclopediaAEvolucaoDaVida.jpg"
+        "Imagem": "/livros/GrandeEnciclopediaAEvolucaoDaVida.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Grande Enciclopédia das Ciências, Tecnologia e Natureza - Ecologia",
@@ -1610,7 +1771,8 @@ items = [
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/GrandeEnciclopediaEcologia.jpg"
+        "Imagem": "/livros/GrandeEnciclopediaEcologia.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Grande Enciclopédia das Ciências, Tecnologia e Natureza - Geografia",
@@ -1620,7 +1782,8 @@ items = [
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/GrandeEnciclopediaGeografia.jpg"
+        "Imagem": "/livros/GrandeEnciclopediaGeografia.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Grande Enciclopédia das Ciências, Tecnologia e Natureza - Máquinas e Inventos",
@@ -1630,7 +1793,8 @@ items = [
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/GrandeEnciclopediaMaquinaSeInventos.jpg"
+        "Imagem": "/livros/GrandeEnciclopediaMaquinaseInventos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Grande Enciclopédia das Ciências, Tecnologia e Natureza - O Comportamento dos Animais",
@@ -1640,7 +1804,8 @@ items = [
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/GrandeEnciclopediaOComportamentoDosAnimais.jpg"
+        "Imagem": "/livros/GrandeEnciclopediaOComportamentoDosAnimais.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Lagos, Guia de Geologia e Paleontologia Urbana - Urban Geology and Paleontology Guide",
@@ -1650,7 +1815,8 @@ items = [
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/LagosGuiaDeGeologiaEPaleontologiaUrbana.jpg"
+        "Imagem": "/livros/LagosGuiaDeGeologiaEPaleontologiaUrbana.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Faro, Guia de Geologia e Paleontologia Urbana - Urban Geology and Paleontology Guide",
@@ -1660,7 +1826,8 @@ items = [
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/FaroGuiaDeGeologiaEPaleontologiaUrbana.jpg"
+        "Imagem": "/livros/FaroGuiaDeGeologiaEPaleontologiaUrbana.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Tavira, Guia de Geologia e Paleontologia Urbana - Urban Geology and Paleontology Guide",
@@ -1670,7 +1837,8 @@ items = [
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/TaviraGuiaDeGeologiaePaleontologiaUrbana.jpg"
+        "Imagem": "/livros/TaviraGuiaDeGeologiaePaleontologiaUrbana.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Aves Peixes Mamíferos",
@@ -1680,7 +1848,8 @@ items = [
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AvesPeixesMamiferos.jpg"
+        "Imagem": "/livros/AvesPeixesMamiferos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Manual Para Segurança na Pesca",
@@ -1690,7 +1859,8 @@ items = [
         "Sub_Categoria": "Pesca",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ManualParaSegurancaNaPesca.jpg"
+        "Imagem": "/livros/ManualParaSegurancaNaPesca.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Caravela",
@@ -1700,7 +1870,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ACaravela.jpg"
+        "Imagem": "/livros/ACaravela.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Guia Prático da Biologia da Abelha",
@@ -1710,7 +1881,8 @@ items = [
         "Sub_Categoria": "Apicultura",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BiologiaDaAbelha.jpg"
+        "Imagem": "/livros/BiologiaDaAbelha.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Charcos Temporários Do Sul de Portugal",
@@ -1720,7 +1892,8 @@ items = [
         "Sub_Categoria": "Zoologia e Botânica",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/CharcosTemporariosDoSulDePortugal.jpg"
+        "Imagem": "/livros/CharcosTemporariosDoSulDePortugal.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Circuitos Ciência Viva - 3ª edição",
@@ -1730,7 +1903,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/CircuitosCienciaViva3.jpg"
+        "Imagem": "/livros/CircuitosCienciaViva3.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Circuitos Ciência Viva - 2ª edição",
@@ -1740,7 +1914,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/CircuitosCienciaViva2.jpg"
+        "Imagem": "/livros/CircuitosCienciaViva2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Panorama Spokes",
@@ -1750,7 +1925,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Panorama Spokes 2018.jpg"
+        "Imagem": "/livros/Panorama Spokes 2018.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Panorama Spokes",
@@ -1760,7 +1936,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Panorama Spokes 2017.jpg"
+        "Imagem": "/livros/Panorama Spokes 2017.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Together",
@@ -1770,7 +1947,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Together 2018.jpg"
+        "Imagem": "/livros/Together 2018.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Rising Tide",
@@ -1780,7 +1958,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Rising Tide 2017.jpg"
+        "Imagem": "/livros/Rising Tide 2017.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Geodiversidade, Valores e Usos",
@@ -1790,7 +1969,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Geodiversidade Valores e Usos.jpg"
+        "Imagem": "/livros/Geodiversidade Valores e Usos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Energia e Alterações Climáticas",
@@ -1800,7 +1980,8 @@ items = [
         "Sub_Categoria": "Energia e Meteorologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Energia e Alterações Climáticas.jpg"
+        "Imagem": "/livros/Energia e Alterações Climáticas.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "OGM - Organismos Geneticamente Modificados",
@@ -1810,7 +1991,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OGM - Organissmos Geneticamente Modificados.jpg"
+        "Imagem": "/livros/OGM - Organissmos Geneticamente Modificados.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Milhafre uma história natural",
@@ -1820,7 +2002,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Milhafre uma História Natural.jpg"
+        "Imagem": "/livros/O Milhafre uma História Natural.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Terra Aquece, Arrefeça-a",
@@ -1830,7 +2013,8 @@ items = [
         "Sub_Categoria": "Meteorologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/A Terra Aquece - Arrefeça-a.jpg"
+        "Imagem": "/livros/A Terra Aquece - Arrefeça-a.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Novo Mundo De Magalhães",
@@ -1840,7 +2024,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/História Jornal de Noticias.jpg"
+        "Imagem": "/livros/História Jornal de Noticias.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia e Sociedade número 12",
@@ -1850,7 +2035,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Biologia & Sociedade 12.jpg"
+        "Imagem": "/livros/Biologia & Sociedade 12.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia e Sociedade número 11",
@@ -1860,7 +2046,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Biologia & Sociedade 11.jpg"
+        "Imagem": "/livros/Biologia & Sociedade 11.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia e Sociedade número 10",
@@ -1870,7 +2057,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Biologia & Sociedade 10.jpg"
+        "Imagem": "/livros/Biologia & Sociedade 10.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia e Sociedade número 9",
@@ -1880,7 +2068,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Biologia & Sociedade 09.jpg"
+        "Imagem": "/livros/Biologia & Sociedade 09.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia e Sociedade número 8",
@@ -1890,7 +2079,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Biologia & Sociedade 08.jpg"
+        "Imagem": "/livros/Biologia & Sociedade 08.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia e Sociedade número 5",
@@ -1900,7 +2090,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Biologia & Sociedade Numero 5.jpg"
+        "Imagem": "/livros/Biologia e Sociedade Numero 5.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia e Sociedade número 3",
@@ -1910,7 +2101,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Biologia & Sociedade Número 3.jpg"
+        "Imagem": "/livros/Biologia e Sociedade Número 3.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia e Sociedade número 2",
@@ -1920,7 +2112,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Biologia & Sociedade Numero 2.jpg"
+        "Imagem": "/livros/Biologia e Sociedade Numero 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biologia e Sociedade Edição Especial",
@@ -1930,7 +2123,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Biologia & Sociedade Edição Especial.jpg"
+        "Imagem": "/livros/Biologia e Sociedade Edição Especial.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Showbiz culture No. 6",
@@ -1940,7 +2134,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Showbiz Culture Backstage.jpg"
+        "Imagem": "/livros/Showbiz Culture Backstage.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A evolução de Darwin",
@@ -1950,7 +2145,8 @@ items = [
         "Sub_Categoria": "Natureza",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/A Evolução de Darwin.jpg"
+        "Imagem": "/livros/A Evolução de Darwin.jpg",
+        "Quantidade": 1
         
     },
     {
@@ -1961,7 +2157,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Ciência Viva.jpg"
+        "Imagem": "/livros/Ciência Viva.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Esponjas ",
@@ -1971,7 +2168,8 @@ items = [
         "Sub_Categoria": "Biologia marinha",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Esponjas.jpg"
+        "Imagem": "/livros/Esponjas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "As espécies mais populares do mar de Portugal num restaurante perto de si",
@@ -1981,7 +2179,8 @@ items = [
         "Sub_Categoria": "Biologia marinha",
         "Linguagem": "Português, Inglês e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AsEspeciesMaisPopularesDoMarDePortugal.jpg"
+        "Imagem": "/livros/AsEspeciesMaisPopularesDoMarDePortugal.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Descobrir a Ciência Bricando: Porque é escura a noite? ",
@@ -1991,7 +2190,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/PorqueEEscuraANoite.jpg"
+        "Imagem": "/livros/PorqueEEscuraANoite.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Eu sei ler: O Capuchinho Vermelho ",
@@ -2001,7 +2201,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OCapuchinhoVermelho.jpg"
+        "Imagem": "/livros/OCapuchinhoVermelho.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A chuva e o bom tempo",
@@ -2011,7 +2212,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AChuvaEOBomTempo.jpg"
+        "Imagem": "/livros/AChuvaEOBomTempo.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Sabes porque é que o fogo é vida",
@@ -2021,7 +2223,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OFogoEVida.jpg"
+        "Imagem": "/livros/OFogoEVida.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Sabes porque é que a terra é vida",
@@ -2031,7 +2234,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ATerraEVida.jpg"
+        "Imagem": "/livros/ATerraEVida.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Sabes porque é que o ar é vida",
@@ -2041,7 +2245,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OArEVida.jpg"
+        "Imagem": "/livros/OArEVida.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Robots",
@@ -2051,7 +2256,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Robots.jpg"
+        "Imagem": "/livros/Robots.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Mapas e Cartas",
@@ -2061,7 +2267,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MapasECartas.jpg"
+        "Imagem": "/livros/MapasECartas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Materiais Líquidos, sólidos e gasosos - as suas propriedades e usos",
@@ -2071,7 +2278,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Materiais.jpg"
+        "Imagem": "/livros/Materiais.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Clima",
@@ -2081,7 +2289,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Clima.jpg"
+        "Imagem": "/livros/Clima.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Desertos",
@@ -2091,7 +2300,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Desertos.jpg"
+        "Imagem": "/livros/Desertos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Terras Polares",
@@ -2101,7 +2311,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/TerrasPolares.jpg"
+        "Imagem": "/livros/TerrasPolares.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Disfarce dos Animais",
@@ -2111,7 +2322,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/DisfarceDosAnimais.jpg"
+        "Imagem": "/livros/DisfarceDosAnimais.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Grandes Clássicos de Aventuras: A Ilha Misteriosa",
@@ -2121,7 +2333,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AIlhaMisteriosa.jpg"
+        "Imagem": "/livros/AIlhaMisteriosa.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Grandes Clássicos de Aventuras: A Ilha do Tesouro",
@@ -2131,7 +2344,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AIlhaDoTesouro.jpg"
+        "Imagem": "/livros/AIlhaDoTesouro.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Mistério da Lagarta",
@@ -2141,7 +2355,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OMisterioDaLagarta.jpg"
+        "Imagem": "/livros/OMisterioDaLagarta.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Branca de Neve e Outras Histórias",
@@ -2151,7 +2366,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BrancaDeNeveEOutrasHistórias.jpg"
+        "Imagem": "/livros/BrancaDeNeveEOutrasHistórias.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Divertida: Explorar os números",
@@ -2161,7 +2377,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaDivertidaExplorarOsNumeros.jpg"
+        "Imagem": "/livros/MatematicaDivertidaExplorarOsNumeros.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Divertida: Medir o Tamanho",
@@ -2171,7 +2388,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaDivertidaMedirOTamanho.jpg"
+        "Imagem": "/livros/MatematicaDivertidaMedirOTamanho.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Divertida: Fazer Fracções",
@@ -2181,7 +2399,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaDivertidaFazerFraccoes.jpg"
+        "Imagem": "/livros/MatematicaDivertidaFazerFraccoes.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Divertida: Identificar pontos e posições",
@@ -2191,7 +2410,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaDivertidaIdentificarPontosEPosicoes.jpg"
+        "Imagem": "/livros/MatematicaDivertidaIdentificarPontosEPosicoes.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Divertida: Explorar as Formas",
@@ -2201,7 +2421,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaDivertidaExplorarAsFormas.jpg"
+        "Imagem": "/livros/MatematicaDivertidaExplorarAsFormas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Divertida: Medir o Peso e o Tempo",
@@ -2211,7 +2432,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaDivertidaMedirOPesoEOTempo.jpg"
+        "Imagem": "/livros/MatematicaDivertidaMedirOPesoEOTempo.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Divertida: Tratar Dados",
@@ -2221,7 +2443,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaDivertidaTratarDados.jpg"
+        "Imagem": "/livros/MatematicaDivertidaTratarDados.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matemática Divertida: Descobrir Padrões",
@@ -2231,7 +2454,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MatematicaDivertidaDescobrirPadroes.jpg"
+        "Imagem": "/livros/MatematicaDivertidaDescobrirPadroes.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Miúdos espertos! Experiências com cores",
@@ -2241,7 +2465,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ExperienciasComCores.jpg"
+        "Imagem": "/livros/ExperienciasComCores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Miúdos espertos! Experiências com a natureza",
@@ -2251,7 +2476,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ExperienciasComANatureza.jpg"
+        "Imagem": "/livros/ExperienciasComANatureza.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Miúdos espertos! Experiências com tecnologia",
@@ -2261,7 +2487,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ExperienciasComTecnologia.jpg"
+        "Imagem": "/livros/ExperienciasComTecnologia.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Eu e a Química - 8º ano - Caderno de atividades",
@@ -2271,7 +2498,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Eu e a Quimica - Caderno de Actividades.jpg"
+        "Imagem": "/livros/Eu e a Quimica - Caderno de Actividades.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Bioterra Parte 1 - 5º ano",
@@ -2281,7 +2509,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Bioterra 5 Parte 1.jpg"
+        "Imagem": "/livros/Bioterra 5 Parte 1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Bioterra Parte 2 - 5º ano",
@@ -2291,7 +2520,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Bioterra 5 Parte 2.jpg"
+        "Imagem": "/livros/Bioterra 5 Parte 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Bioterra - 5º ano - Caderno de atividades",
@@ -2301,7 +2531,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Bioterra 5 - Caderno de Actividades.jpg"
+        "Imagem": "/livros/Bioterra 5 - Caderno de Actividades.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Biovida - 8º ano",
@@ -2311,7 +2542,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Bio Vida.jpg"
+        "Imagem": "/livros/Bio Vida.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Eu e a Química - 8º ano ",
@@ -2321,7 +2553,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Eu e a Quimica.jpg"
+        "Imagem": "/livros/Eu e a Quimica.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Mistério da vida - 5º ano",
@@ -2331,7 +2564,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Mistério da Vida.jpg"
+        "Imagem": "/livros/O Mistério da Vida.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Da célula ao universo - 11º ano",
@@ -2341,7 +2575,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Da Célula no Universo.jpg"
+        "Imagem": "/livros/Da Célula no Universo.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A minha primeira enciclopédia com winnie the pooh e seus amigos",
@@ -2351,7 +2586,8 @@ items = [
         "Sub_Categoria": "Enciclopédia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/A Minha Primeira Enciclopédia.jpg"
+        "Imagem": "/livros/A Minha Primeira Enciclopédia.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Bioterra > Parte 1 - 6º Ano",
@@ -2361,7 +2597,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Bioterra 6 Parte 1.jpg"
+        "Imagem": "/livros/Bioterra 6 Parte 1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Bioterra > Parte 2 - 6º Ano",
@@ -2371,7 +2608,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Bioterra 6 Parte 2.jpg"
+        "Imagem": "/livros/Bioterra 6 Parte 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Bioterra > Caderno de Atividades 6º Ano",
@@ -2381,7 +2619,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Bioterra 6 - Caderno de Actividades.jpg"
+        "Imagem": "/livros/Bioterra 6 - Caderno de Actividades.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Descobrir a Terra: Livro do Aluno",
@@ -2391,7 +2630,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Descobrir a Terra Livro do Aluno.jpg"
+        "Imagem": "/livros/Descobrir a Terra Livro do Aluno.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Descobrir a Terra: Livro do Professor",
@@ -2401,7 +2641,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Descobrir a Terra Livro do Professor.jpg"
+        "Imagem": "/livros/Descobrir a Terra Livro do Professor.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Descobrir a Terra: Caderno de Atividades",
@@ -2411,7 +2652,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Descobrir a Terra - Caderno de Actividades.jpg"
+        "Imagem": "/livros/Descobrir a Terra - Caderno de Actividades.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ciências: Manual do Aluno",
@@ -2420,7 +2662,9 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Ciências Livro Aluno.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ciências: Manual do Professor",
@@ -2429,7 +2673,9 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Ciências Livro Aluno.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ciências: Caderno de Atividades",
@@ -2438,7 +2684,9 @@ items = [
         "Categoria": "Ciências da Natureza",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Ciências Caderno de Actividades.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Planeta Terra: Viver melhor na Terra",
@@ -2448,7 +2696,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Planeta Terra 9.jpg"
+        "Imagem": "/livros/Planeta Terra 9.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Terra Mãe CFQ: Sustentabilidade na Terra",
@@ -2458,7 +2707,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Terra Mãe CFQ - Sustentabilidade na Terra.jpg"
+        "Imagem": "/livros/Terra Mãe CFQ - Sustentabilidade na Terra.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "6º Ano Matemática Convida: Parte 1",
@@ -2468,7 +2718,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Matemática ConVida Parte 1.jpg"
+        "Imagem": "/livros/Matemática ConVida Parte 1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "6º Ano Matemática Convida: Parte 2",
@@ -2478,7 +2729,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Matemática ConVida Parte 2.jpg"
+        "Imagem": "/livros/Matemática ConVida Parte 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "6º Ano Matemática Convida: Caderno de Atividades",
@@ -2488,7 +2740,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Matemática ConVida Caderno de Actividades.jpg"
+        "Imagem": "/livros/Matemática ConVida Caderno de Actividades.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "6º Ano Matemática Convida: Caderno de Materiais",
@@ -2498,7 +2751,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Matemática ConVida - Caderno de Materiais.jpg"
+        "Imagem": "/livros/Matemática ConVida - Caderno de Materiais.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Mat 6 - Volume 1 - 6º ano",
@@ -2508,7 +2762,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Mat 6 Volume 1.jpg"
+        "Imagem": "/livros/Mat 6 Volume 1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matematicamente falando - 5º ano - Caderno de atividades",
@@ -2518,7 +2773,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Matematicamente Falando 5 - Caderno de Actividades.jpg"
+        "Imagem": "/livros/Matematicamente Falando 5 - Caderno de Actividades.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Descobrir a Terra - 7º ano - Caderno de atividades ",
@@ -2528,7 +2784,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Descobrir a Terra - Caderno de Actividades 2.jpg"
+        "Imagem": "/livros/Descobrir a Terra - Caderno de Actividades 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matematicamente falando - 5º ano - Parte 1",
@@ -2538,7 +2795,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Matemáticamente Falando 5 Parte 1.jpg"
+        "Imagem": "/livros/Matemáticamente Falando 5 Parte 1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matematicamente falando - 5º ano - Parte 2",
@@ -2548,7 +2806,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Matemáticamente Falando 5 Parte 2.jpg"
+        "Imagem": "/livros/Matemáticamente Falando 5 Parte 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matematicamente falando - 8º ano - Parte 1",
@@ -2558,7 +2817,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Matematicamente Falando 8 Parte 1.jpg"
+        "Imagem": "/livros/Matematicamente Falando 8 Parte 1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matematicamente falando - 8º ano - Parte 2",
@@ -2568,7 +2828,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Matemáticamente Falando 8 Parte 2.jpg"
+        "Imagem": "/livros/Matemáticamente Falando 8 Parte 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Matematicamente falando - 8º ano - Caderno de atividades",
@@ -2578,7 +2839,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Matemáticamente Falando 8 - Caderno de Actividades.jpg"
+        "Imagem": "/livros/Matemáticamente Falando 8 - Caderno de Actividades.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Escritas em dia - Fichas de ortografia para diferenciação na sala de aula - 3º ano",
@@ -2588,7 +2850,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Escrita em dia - Fichas de ortografia.jpg"
+        "Imagem": "/livros/Escrita em dia - Fichas de ortografia.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Mat 6  - 6º ano - Caderno de Exercicios",
@@ -2598,7 +2861,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Mat 6 Caderno de Exercícios.jpg"
+        "Imagem": "/livros/Mat 6 Caderno de Exercícios.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Mat 6 - Volume 2 - 6º ano",
@@ -2608,7 +2872,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Mat 6 Volume 2.jpg"
+        "Imagem": "/livros/Mat 6 Volume 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "À Procura da Solução: Actividades Matemáticas",
@@ -2618,7 +2883,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/À Procura da Solução Actividades Matemáticas.jpg"
+        "Imagem": "/livros/À Procura da Solução Actividades Matemáticas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Mundo da Carochinha: Livro Geral",
@@ -2628,7 +2894,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Mundo da Carochinha Livro Aluno.jpg"
+        "Imagem": "/livros/O Mundo da Carochinha Livro Aluno.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Mundo da Carochinha: Fichas de Avaliação Mensal",
@@ -2638,7 +2905,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Mundo da Carochinha Fichas de Avaliação Mensal.jpg"
+        "Imagem": "/livros/O Mundo da Carochinha Fichas de Avaliação Mensal.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Mundo da Carochinha: Expressão Plástica",
@@ -2648,7 +2916,8 @@ items = [
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Mundo da Carochinha - Expressão Plástica.jpg"
+        "Imagem": "/livros/O Mundo da Carochinha - Expressão Plástica.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 1: O Patinho Feio",
@@ -2658,7 +2927,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Leio Sozinho - O Patinho Feio.jpg"
+        "Imagem": "/livros/Leio Sozinho - O Patinho Feio.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 1: A Panela Mágica",
@@ -2668,7 +2938,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Leio Sozinho - A Panela Mágica.jpg"
+        "Imagem": "/livros/Leio Sozinho - A Panela Mágica.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 2: Capuchinho Vermelho",
@@ -2678,7 +2949,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Leio Sozinho - Capuchinho Vermelho.jpg"
+        "Imagem": "/livros/Leio Sozinho - Capuchinho Vermelho.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 2: Os três porquinhos",
@@ -2688,7 +2960,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Leio Sozinho - Os Três Porquinhos.jpg"
+        "Imagem": "/livros/Leio Sozinho - Os Três Porquinhos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 3: O gato das botas",
@@ -2698,7 +2971,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Leio Sozinho - O Gato das Botas.jpg"
+        "Imagem": "/livros/Leio Sozinho - O Gato das Botas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 4: Branca de neves e os sete anões",
@@ -2708,7 +2982,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Leio Sozinho - Branca de Neve e os Sete Anões.jpg"
+        "Imagem": "/livros/Leio Sozinho - Branca de Neve e os Sete Anões.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ler é crescer: Leio sozinho nível 4: Pedro e o Lobo",
@@ -2718,7 +2993,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Leio Sozinho - Pedro e o Lobo.jpg"
+        "Imagem": "/livros/Leio Sozinho - Pedro e o Lobo.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Solar de Santa Catarina",
@@ -2728,7 +3004,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Solar de Santa Catarina.jpg"
+        "Imagem": "/livros/Solar de Santa Catarina.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Histórias, Conversas e Lengalengas",
@@ -2738,7 +3015,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/HistoriasConversasELengalengas.jpg"
+        "Imagem": "/livros/HistoriasConversasELengalengas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "La Casita de Chocolate",
@@ -2748,7 +3026,8 @@ items = [
         "Sub_Categoria": "Livro para Colorir",
         "Linguagem": "Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/LaCasitaDeChocolate.jpg"
+        "Imagem": "/livros/LaCasitaDeChocolate.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Blanca Nieves",
@@ -2758,7 +3037,8 @@ items = [
         "Sub_Categoria": "Livro para Colorir",
         "Linguagem": "Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/BlancaNieves.jpg"
+        "Imagem": "/livros/BlancaNieves.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "El Mundo de Tarzan",
@@ -2768,7 +3048,8 @@ items = [
         "Sub_Categoria": "Livro para Colorir",
         "Linguagem": "Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ElMundoTarzan.jpg"
+        "Imagem": "/livros/ElMundoTarzan.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Peter Pan e Pinoquio",
@@ -2778,7 +3059,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/PeterPanEPinoquio.jpg"
+        "Imagem": "/livros/PeterPanEPinoquio.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Descobrir a Ciência Brincando: De onde vem a Eletricidade?",
@@ -2788,7 +3070,8 @@ items = [
         "Sub_Categoria": "Ciência Geral",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/DeOndeVemAEletricidade.jpg"
+        "Imagem": "/livros/DeOndeVemAEletricidade.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Já sei Ler: Parabéns, Igor!",
@@ -2798,7 +3081,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ParabensIgor.jpg"
+        "Imagem": "/livros/ParabensIgor.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "As minhas primeiras Leituras: Que dia tão Bonito!",
@@ -2808,7 +3092,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/QueDiaTaoBonito.jpg"
+        "Imagem": "/livros/QueDiaTaoBonito.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Dicionário Infantil do Ambiente",
@@ -2818,7 +3103,8 @@ items = [
         "Sub_Categoria": "Dicionário",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/DicionarioInfantilDoAmbiente.jpg"
+        "Imagem": "/livros/DicionarioInfantilDoAmbiente.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Cabana do Pai Tomás",
@@ -2828,7 +3114,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ACabanaDoPaiTomas.jpg"
+        "Imagem": "/livros/ACabanaDoPaiTomas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Os talheres mágicos do Titanic: Los cubiertos mágicas del Titanic",
@@ -2838,7 +3125,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OsTalheresMagicosDoTitanic.jpg"
+        "Imagem": "/livros/OsTalheresMagicosDoTitanic.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: 101 Dálmatas",
@@ -2848,7 +3136,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/101Dalmatas.jpg"
+        "Imagem": "/livros/101Dalmatas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Uma Aventura Estaminal",
@@ -2858,7 +3147,8 @@ items = [
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/UmaAventuraEstaminal.jpg"
+        "Imagem": "/livros/UmaAventuraEstaminal.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Corcunda de Notre Dame",
@@ -2868,7 +3158,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OCorcundadeNotreDame.jpg"
+        "Imagem": "/livros/OCorcundadeNotreDame.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "As Aventuras de TinTim: Os Charutos do Faraó",
@@ -2878,7 +3169,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/TinTimOsCharutosDoFarao.jpg"
+        "Imagem": "/livros/TinTimOsCharutosDoFarao.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Uma Aventura de Astérix o Gavlês: O Dominio dos Deuses",
@@ -2888,7 +3180,8 @@ items = [
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/UmaAventuraDeAsterixOGavlesODominioDosDeuses.jpg"
+        "Imagem": "/livros/UmaAventuraDeAsterixOGavlesODominioDosDeuses.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Grandes Ilustradores da Escola Russa: Os mais belos contos de Andersen",
@@ -2898,7 +3191,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OsMaisBelosContosDeAndersen.jpg"
+        "Imagem": "/livros/OsMaisBelosContosDeAndersen.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Aladino e a Lâmpada maravilhosa",
@@ -2908,7 +3202,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Aladino e a Lâmpada maravilhosa.jpg"
+        "Imagem": "/livros/Aladino e a Lâmpada maravilhosa.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Peter Pan",
@@ -2918,7 +3213,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Peter Pan.jpg"
+        "Imagem": "/livros/Peter Pan.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O gigante e os morangos - 3º  edição",
@@ -2928,7 +3224,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Gigante e os morangos.jpg"
+        "Imagem": "/livros/O Gigante e os morangos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Bichos grandes: A tartaruga azul ",
@@ -2938,7 +3235,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/A Tartaruga Azul.jpg"
+        "Imagem": "/livros/A Tartaruga Azul.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Quero um dinossáurio ",
@@ -2948,7 +3246,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Quero um Dinossáurio.jpg"
+        "Imagem": "/livros/Quero um Dinossáurio.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Gente Diferente: Um Livro com janelinhas ",
@@ -2958,7 +3257,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Gente Diferente Um Livro com Janelinhas.jpg"
+        "Imagem": "/livros/Gente Diferente Um Livro com Janelinhas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Os contos do tio patinhas: João e Maria",
@@ -2968,7 +3268,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/João e Maria.jpg"
+        "Imagem": "/livros/João e Maria.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Farol: Um golfinho em apuros",
@@ -2978,7 +3279,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Farol, Um Golfinho em Apuros.jpg"
+        "Imagem": "/livros/Farol, Um Golfinho em Apuros.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Tudo ao contrário: Diário de uma equipa de um centro ciência",
@@ -2988,7 +3290,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Tudo ao Contrário.jpg"
+        "Imagem": "/livros/Tudo ao Contrário.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Lagoas e lagoeiros da ilha de São Miguel",
@@ -2998,7 +3301,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/LagoasELagoeiros.jpg"
+        "Imagem": "/livros/LagoasELagoeiros.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A História da Senhora Rata Migalha",
@@ -3007,7 +3311,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Floresta",
@@ -3017,7 +3322,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AFloresta.jpg"
+        "Imagem": "/livros/AFloresta.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Dinossauro",
@@ -3027,7 +3333,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Dinossauro.jpg"
+        "Imagem": "/livros/Dinossauro.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "É Divertido Conhecer os Paises da Europa com Walt Disney",
@@ -3037,7 +3344,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/EDivertidoConhecerOsPaisesDaEuropa.jpg"
+        "Imagem": "/livros/EDivertidoConhecerOsPaisesDaEuropa.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "É Divertido Conhecer os Países da América com Walt Disney",
@@ -3047,7 +3355,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/EDivertidoConhecerOsPaisesDaAmerica.jpg"
+        "Imagem": "/livros/EDivertidoConhecerOsPaisesDaAmerica.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Descobre a Floresta Húmida",
@@ -3057,7 +3366,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Descobre a Floresta Húmida.jpg"
+        "Imagem": "/livros/Descobre a Floresta Húmida.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Dokeo, Proteger a Terra: Os grandes desafios do Ambiente",
@@ -3067,7 +3377,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/DOKEO Proteger a Terra.jpg"
+        "Imagem": "/livros/DOKEO Proteger a Terra.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Leão e o rato",
@@ -3077,7 +3388,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OLeaoEORato.jpg"
+        "Imagem": "/livros/OLeaoEORato.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Um livro de Olhos Marotos: O Carro Bombeiro Matias",
@@ -3087,7 +3399,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/OCarroBombeiroMatias.jpg"
+        "Imagem": "/livros/OCarroBombeiroMatias.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Luta de Galos",
@@ -3097,7 +3410,8 @@ items = [
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Luta de Galos.jpg"
+        "Imagem": "/livros/Luta de Galos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O ladrão Insolente",
@@ -3107,7 +3421,8 @@ items = [
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Ladrão Insolente.jpg"
+        "Imagem": "/livros/O Ladrão Insolente.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O Eclipse",
@@ -3117,7 +3432,8 @@ items = [
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Eclipse.jpg"
+        "Imagem": "/livros/O Eclipse.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O meu primeiro livro sobre Tudo o que voa",
@@ -3127,7 +3443,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Meu Primeiro Livro sobre Tudo o que Voa.jpg"
+        "Imagem": "/livros/O Meu Primeiro Livro sobre Tudo o que Voa.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Maravilhas da natureza",
@@ -3137,7 +3454,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Maravilhas da Natureza.jpg"
+        "Imagem": "/livros/Maravilhas da Natureza.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Bela e o Monstro",
@@ -3147,7 +3465,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado", 
-        "Imagem": "/livros/A Bela e o Monstro.jpg"
+        "Imagem": "/livros/A Bela e o Monstro.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Dentro da floresta",
@@ -3157,7 +3476,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Dentro da Floresta.jpg"
+        "Imagem": "/livros/Dentro da Floresta.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "As viagens de Gulliver",
@@ -3167,7 +3487,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/As Viagens de Gulliver.jpg"
+        "Imagem": "/livros/As Viagens de Gulliver.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O lobo e os sete cabritos",
@@ -3177,7 +3498,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Lobo e os sete Cabritos.jpg"
+        "Imagem": "/livros/O Lobo e os sete Cabritos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Bela adormecida",
@@ -3187,7 +3509,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/A Bela Adormecida.jpg"
+        "Imagem": "/livros/A Bela Adormecida.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Polegarzinho",
@@ -3197,7 +3520,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Polegarzinho.jpg"
+        "Imagem": "/livros/Polegarzinho.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O rei da selva",
@@ -3207,7 +3531,8 @@ items = [
         "Sub_Categoria": "Livro para colorir",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Rei da Selva.jpg"
+        "Imagem": "/livros/O Rei da Selva.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Contos de encantar: O livro da selva",
@@ -3217,7 +3542,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Livro da Selva.jpg"
+        "Imagem": "/livros/O Livro da Selva.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O passeio do papagaio de papel",
@@ -3227,7 +3553,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Passeio do Papagaio de Papel.jpg"
+        "Imagem": "/livros/O Passeio do Papagaio de Papel.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A minha primeira biblioteca: O gato das botas",
@@ -3237,7 +3564,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Gato das Botas.jpg"
+        "Imagem": "/livros/O Gato das Botas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "As aventuras que eu gosto de ler: Heidi ",
@@ -3247,7 +3575,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Heidi.jpg"
+        "Imagem": "/livros/Heidi.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Circuitos ciência viva - 1ª edição",
@@ -3257,7 +3586,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/CircuitosCienciaViva.jpg"
+        "Imagem": "/livros/CircuitosCienciaViva.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Mistérios disney: Os fantasmas Existem? ",
@@ -3267,7 +3597,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Mistérios Disney - Os Fantasmas Existem.jpg"
+        "Imagem": "/livros/Mistérios Disney - Os Fantasmas Existem.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: Pinóquio",
@@ -3277,7 +3608,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Histórias Multieducativas Disney Pinóquio.jpg"
+        "Imagem": "/livros/Histórias Multieducativas Disney Pinóquio.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: Os aristogatos",
@@ -3287,7 +3619,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Os Aristogatos.jpg"
+        "Imagem": "/livros/Os Aristogatos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: O livro da selva",
@@ -3297,7 +3630,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Disney O Livro da Selva.jpg"
+        "Imagem": "/livros/Disney O Livro da Selva.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Histórias multieducativas DISNEY com passatempos e jogos a cores: Dumbo",
@@ -3307,7 +3641,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Dumbo.jpg"
+        "Imagem": "/livros/Dumbo.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O pato que veio do frio",
@@ -3317,7 +3652,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Pato que veio do Frio.jpg"
+        "Imagem": "/livros/O Pato que veio do Frio.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Winnie the pooh: Tudo pode ser divertido",
@@ -3327,7 +3663,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Tudo Pode ser Divertido.jpg"
+        "Imagem": "/livros/Tudo Pode ser Divertido.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Os contos do tio patinhas: O alfaiate valentão",
@@ -3337,7 +3674,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Alfaiate Valentão.jpg"
+        "Imagem": "/livros/O Alfaiate Valentão.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Pinóquio",
@@ -3347,7 +3685,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Disney Pinóquio.jpg"
+        "Imagem": "/livros/Disney Pinóquio.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Aladdin",
@@ -3357,7 +3696,8 @@ items = [
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Aladdin.jpg"
+        "Imagem": "/livros/Aladdin.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Flora e Fauna Terreste Invasora na Macaronésia: Top 100 nos Açores, Madeira e Canárias, Flora y Fauna Terrestre Invasora en la Macaronesia: Top 100 en Azores, Madeira y Canarias, Invasive Terrestrial Flora & Fauna of Macaronesia: Top 100 in Azores, Madeira and Canaries",
@@ -3367,7 +3707,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português, Espanhol e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Flora e Fauna Terrestre Invasora na Macaronésia.jpg"
+        "Imagem": "/livros/Flora e Fauna Terrestre Invasora na Macaronésia.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Relict Species: Phylogeography and Conservation Biology",
@@ -3377,7 +3718,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Relict Species.jpg"
+        "Imagem": "/livros/Relict Species.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Top 100: Las cien especies amenazadas prioritarias de gestión en la región europea biogeográfica de la Macaronesia, As cem espécies ameaçadas prioritárias em terms de gestão na região europeia biogeográfica da Macaronesia",
@@ -3387,7 +3729,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português e Espanhol",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/TOP 100.jpg"
+        "Imagem": "/livros/TOP 100.jpg",
+        "Quantidade": 4
     },
     {
         "Titulo": "Corvo: Biosphere Reserve Proposal",
@@ -3397,7 +3740,8 @@ items = [
         "Sub_Categoria": "Biosfera",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Como Implementar uma Recolha Selectiva.jpg"
+        "Imagem": "/livros/Corvo Biosphere Reserve Proposal.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Corvo: Candidatura a Reserva da Biosfera",
@@ -3407,7 +3751,8 @@ items = [
         "Sub_Categoria": "Biosfera",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Corvo Candidatura e Reserva da Biosfera.jpg"
+        "Imagem": "/livros/Corvo Candidatura e Reserva da Biosfera.jpg",
+        "Quantidade": 3
     },
     {
         "Titulo": "Graciosa: Biosphere Reserve Proposal",
@@ -3417,7 +3762,8 @@ items = [
         "Sub_Categoria": "Biosfera",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Graciosa Biosphere Reserve Proposal.jpg"
+        "Imagem": "/livros/Graciosa Biosphere Reserve Proposal.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Graciosa: Candidatura a Reserva da Biosfera",
@@ -3427,7 +3773,8 @@ items = [
         "Sub_Categoria": "Biosfera",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Graciosa Candidatura a Reserva da Biosfera.jpg"
+        "Imagem": "/livros/Graciosa Candidatura a Reserva da Biosfera.jpg",
+        "Quantidade": 3
     },
     {
         "Titulo": "Flora no litoral dos Açores, Avifauna no litoral dos Açores",
@@ -3437,7 +3784,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Avifauna no Litoral dos Açores.jpg"
+        "Imagem": "/livros/Avifauna no Litoral dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Plantas Usadas na Medicina Popular",
@@ -3447,7 +3795,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Plantas Usadas na Medicina Popular.jpg"
+        "Imagem": "/livros/Plantas Usadas na Medicina Popular.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Pensar como uma Montanha de Aldo Leopold: Um caminho de Educação e Ética Ambiental",
@@ -3457,7 +3806,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Pensar como uma Montanha de Aldo Leopold Um Caminho de Educação e Ética Ambiental.jpg"
+        "Imagem": "/livros/Pensar como uma Montanha de Aldo Leopold Um Caminho de Educação e Ética Ambiental.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Associativismo Ambiental: O caso dos amigos dos Açores",
@@ -3467,7 +3817,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Associativismo Ambiental O Caso dos Amigos dos Açores.jpg"
+        "Imagem": "/livros/Associativismo Ambiental O Caso dos Amigos dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Rapinas Belas e Úteis",
@@ -3477,7 +3828,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Rapinas Belas e Úteis Caderno Escolar.jpg"
+        "Imagem": "/livros/Rapinas Belas e Úteis Caderno Escolar.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Mar e Sociedade: Curiosidades para quem gosta do mar",
@@ -3487,7 +3839,8 @@ items = [
         "Sub_Categoria": "Biologia marinha",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Mar e Sociedade.jpg"
+        "Imagem": "/livros/Mar e Sociedade.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Briófitos raros dos Açores ",
@@ -3497,7 +3850,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Briófitos Raros dos Açores & Azorean Rare Bryophytes.jpg"
+        "Imagem": "/livros/Briófitos Raros dos Açores & Azorean Rare Bryophytes.jpg",
+        "Quantidade": 3
     },
     {
         "Titulo": "O ordenamento do território nos Açores: política e instrumentos",
@@ -3507,7 +3861,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Ordenamento do Território nos Açores política e instrumentos.jpg"
+        "Imagem": "/livros/O Ordenamento do Território nos Açores política e instrumentos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Vulcão das sete cidades. Volcano - História Natural - Natural History - Um Guia - A Guide - Açores - Azores",
@@ -3517,7 +3872,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Vulcão das Sete Cidades, Volcano.jpg"
+        "Imagem": "/livros/Vulcão das Sete Cidades. Volcano.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Our Ocean - Marine Legends, Fairy Tales and Folklore in Ireland",
@@ -3527,7 +3883,8 @@ items = [
         "Sub_Categoria": "História",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Our Ocean - Marine Legends.jpg"
+        "Imagem": "/livros/Our Ocean - Marine Legends.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Gunther Maul: Museu, natureza e ciência",
@@ -3537,7 +3894,8 @@ items = [
         "Sub_Categoria": "Museu",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Gunther Maul.jpg"
+        "Imagem": "/livros/Gunther Maul.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Um Toque Decisivo- A Small but Crucial Push: British Council- 70 anos com Portugal",
@@ -3547,7 +3905,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural de Portugal com a Britânia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/UmToqueDecisivo.jpg"
+        "Imagem": "/livros/UmToqueDecisivo.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Lisboa, O Descobrimento do Mundo e Fernão de Magalhães",
@@ -3557,7 +3916,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/LisboaODescobrimentoDoMundoEFernaoDeMagalhaes.jpg"
+        "Imagem": "/livros/LisboaODescobrimentoDoMundoEFernaoDeMagalhaes.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Desenhando a Porta do Pacífico - Drawing the Gateway to the Pacific",
@@ -3567,7 +3927,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/DesenhandoAPortaDoPacifico.jpg"
+        "Imagem": "/livros/DesenhandoAPortaDoPacifico.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Listagem da Fauna (Mollusca e Anthropoda) e Flora (Bryophyta, Pteridophyta e Spermatophyta) Terrestres dos Açores - A List of Terrestrial Fauna (Mollusca and Arthropoda) and Flora (Bryophyta, Pteridophyta and Spermatophyta) from the Azores",
@@ -3577,7 +3938,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Listagem da Fauna e Flora Terrestres dos Açores.jpg"
+        "Imagem": "/livros/Listagem da Fauna e Flora Terrestres dos Açores.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Azores: Island to Island",
@@ -3587,7 +3949,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AzoresIslandToIsland.jpg"
+        "Imagem": "/livros/AzoresIslandToIsland.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açores, São Miguel: A ilha Verde - Azores, São Miguel: The Green Island",
@@ -3597,7 +3960,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/SaoMiguelAIlhaVerde.jpg"
+        "Imagem": "/livros/SaoMiguelAIlhaVerde.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Priolo.",
@@ -3607,7 +3971,8 @@ items = [
         "Sub_Categoria": "DVD",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Priolo. Filme.jpg"
+        "Imagem": "/livros/Priolo. Filme.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Lagoas do Congro e dos Nenúfares: Proposta de recuperação e gestão da Cratera",
@@ -3617,7 +3982,8 @@ items = [
         "Sub_Categoria": "Ecologia e Hist. Cultural dos Açores",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Lagoas do Congro e dos Nenúfares.jpg"
+        "Imagem": "/livros/Lagoas do Congro e dos Nenúfares.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açores, Terras do Priolo: Leste de São Miguel",
@@ -3626,7 +3992,9 @@ items = [
         "Categoria": "Biologia e História",
         "Sub_Categoria": "Ecologia e Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Açores Terras do Priolo - Leste de São Miguel.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açores, Terras do Priolo - Azores, Lands of Priolo",
@@ -3636,7 +4004,8 @@ items = [
         "Sub_Categoria": "Ecologia e Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-
+        "Imagem": "/livros/Açores Terras do Priolo - Lands of Priolo.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Flora Vascular dos Açores, Prioridades em Conservação - Azorean Vascular Flora Priorities in Conservation",
@@ -3646,7 +4015,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Flora Vascular dos Açores Prioridades em Conservação.jpg"
+        "Imagem": "/livros/Flora Vascular dos Açores Prioridades em Conservação.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "O Priolo e a floresta natural de altitude",
@@ -3656,7 +4026,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O Priolo e a Floresta Natural de Altitude.jpg"
+        "Imagem": "/livros/O Priolo e a Floresta Natural de Altitude.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Guia do Consumidor do Pescado dos Açores - Consumer's Guide to Azorean Seafood",
@@ -3666,7 +4037,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Guia do Consumidor do Pescado dos Açores.jpg"
+        "Imagem": "/livros/Guia do Consumidor do Pescado dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Mistério do Vulcão da Urzelina da Ilha de São Jorge dos Açores",
@@ -3676,7 +4048,8 @@ items = [
         "Sub_Categoria": "Vulcanologia e Geotérmica",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Mistério do Vulcão da Urzelina da Ilha de São Jorge dos Açores.jpg"
+        "Imagem": "/livros/Mistério do Vulcão da Urzelina da Ilha de São Jorge dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Lagoas e Lagoeiros do Concelho de Ponta Delgada",
@@ -3686,7 +4059,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Lagoas e Lagoeiros do Concelho de Ponta Delgada.jpg"
+        "Imagem": "/livros/Lagoas e Lagoeiros do Concelho de Ponta Delgada.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Etnobotânica: Plantas Bravias, Comestíveis, Condimentares e Medicinais",
@@ -3696,7 +4070,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Etnobotânica.jpg"
+        "Imagem": "/livros/Etnobotânica.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Estudos de Geotermia e Geofísica e outros Escritos",
@@ -3706,7 +4081,8 @@ items = [
         "Sub_Categoria": "Geotérmica e Geofísica",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Estudos de Geotermia e Geofísica e outros Escritos.jpg"
+        "Imagem": "/livros/Estudos de Geotermia e Geofísica e outros Escritos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Natal Verde: 30 Anos de Postais de Jorge Paiva 1990-2019",
@@ -3716,7 +4092,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Natal Verde.jpg"
+        "Imagem": "/livros/Natal Verde.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Arquipelago: Life and Marine Sciences Nº 36",
@@ -3726,7 +4103,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Arquipelago Life and Marine Sciences.jpg"
+        "Imagem": "/livros/Arquipelago Life and Marine Sciences.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açores: O império dos Fósseis",
@@ -3736,7 +4114,8 @@ items = [
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "AçoresoImpériodosFósseis.jpg"
+        "Imagem": "/livros/Açores o Império dos Fósseis.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "As Luzes do Príncipe",
@@ -3746,7 +4125,8 @@ items = [
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/As Luzes do Príncipe.jpg"
+        "Imagem": "/livros/As Luzes do Príncipe.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Migrações de Aves",
@@ -3756,7 +4136,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Migrações de Aves.jpg"
+        "Imagem": "/livros/Migrações de Aves.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "As Plantas Invasoras: Uma história contada pela Faia-da-terra",
@@ -3766,7 +4147,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/As Plantas Invasoras.jpg"
+        "Imagem": "/livros/As Plantas Invasoras.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Parque Natural Regional da Plataforma Costeira das Lajes do Pico - Proposta de Implementação",
@@ -3776,7 +4158,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Parque Natural Regional da Plataforma Costeira das Lajes do Pico.jpg"
+        "Imagem": "/livros/Parque Natural Regional da Plataforma Costeira das Lajes do Pico.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "O género Puffinus nas ilhas dos Açores: Considerações sobre as espécies atlânticas do género Puffinus",
@@ -3786,7 +4169,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/O género Puffinus nas ilhas dos Açores.jpg"
+        "Imagem": "/livros/O género Puffinus nas ilhas dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Áreas Protegidas e Turismo-Conflito Intransponível?",
@@ -3796,7 +4180,8 @@ items = [
         "Sub_Categoria": "Turismo Rural",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AreasProtegidaseTurismoConflitoIntransponível.jpg"
+        "Imagem": "/livros/AreasProtegidaseTurismoConflitoIntransponível.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Proposta de Intervenção Museológica na Gruta do Carvão, Ilha de S. Miguel",
@@ -3806,16 +4191,8 @@ items = [
         "Sub_Categoria": "Geotérmica",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Proposta de Intervenção Museológica na Gruta do Carvão, Ilha de S. Miguel.jpg"
-    },
-    {
-        "Titulo": "Marque encontro com a natureza",
-        "Autor": "Eco-Seia",
-        "Ano": "NaN",
-        "Categoria": "Biologia e História",
-        "Sub_Categoria": "Panfleto",
-        "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Imagem": "/livros/Proposta de Intervenção Museológica na Gruta do Carvão, Ilha de S. Miguel.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Gestão Ambiental no Sector Hoteleiro",
@@ -3825,7 +4202,8 @@ items = [
         "Sub_Categoria": "Turismo Rural",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/A Gestão Ambiental no Sector Hoteleiro.jpg"
+        "Imagem": "/livros/A Gestão Ambiental no Sector Hoteleiro.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Borboletas dos Açores: Papilionoidea e Sphingoidea",
@@ -3835,7 +4213,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Borboletas dos Açores.jpg"
+        "Imagem": "/livros/Borboletas dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Térmitas dos Açores",
@@ -3845,7 +4224,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Térmicas dos Açores.jpg"
+        "Imagem": "/livros/Térmicas dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Guia do Munícipe Ambientalista",
@@ -3855,7 +4235,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Guia do Municipe Ambientalista.jpg"
+        "Imagem": "/livros/Guia do Municipe Ambientalista.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Como Implementar uma Recolha Selectiva?",
@@ -3865,7 +4246,8 @@ items = [
         "Sub_Categoria":"NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Como Implementar uma Recolha Selectiva.jpg"
+        "Imagem": "/livros/Como Implementar uma Recolha Selectiva.jpg",
+        "Quantidade": 3
     },
     {
         "Titulo": "Cise-Seia: Centro de Interpretação da Serra da Estrela",
@@ -3875,7 +4257,8 @@ items = [
         "Sub_Categoria": "Panfleto",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Cise Seia, Centro de Interpretação da Serra da Estrela.jpg"
+        "Imagem": "/livros/Cise Seia, Centro de Interpretação da Serra da Estrela.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Atuns, Bonitos e Cavalas dos Açores: Nómadas Atlânticos",
@@ -3885,7 +4268,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Atuns, Bonitos e Cavalas dos Açores.jpg"
+        "Imagem": "/livros/Atuns, Bonitos e Cavalas dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Turismo e Desenvolvimento Sustentável 1",
@@ -3895,7 +4279,8 @@ items = [
         "Sub_Categoria": "Turismo Rural",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Turismo e Desenvolvimento Sustentável 1.jpg"
+        "Imagem": "/livros/Turismo e Desenvolvimento Sustentável 1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Turismo e Desenvolvimento Sustentável 2",
@@ -3905,7 +4290,8 @@ items = [
         "Sub_Categoria": "Turismo Rural",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Turismo e Desenvolvimento Sustentável 2.jpg"
+        "Imagem": "/livros/Turismo e Desenvolvimento Sustentável 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Gestão do Litoral e Cidadania Ambiental",
@@ -3915,7 +4301,8 @@ items = [
         "Sub_Categoria": "Metodologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Gestão do Litoral e Cidadania Ambiental.jpg"
+        "Imagem": "/livros/Gestão do Litoral e Cidadania Ambiental.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Mística e Nuvens do Vulcão do Pico",
@@ -3925,7 +4312,8 @@ items = [
         "Sub_Categoria": "Geotérmica",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Mística e Nuvens do Vulcão do Pico.jpg"
+        "Imagem": "/livros/Mística e Nuvens Do Vulcão do Pico.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Rondando a Ilha Verde: S. Miguel - Açores",
@@ -3935,7 +4323,8 @@ items = [
         "Sub_Categoria": "Album de Fotos",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Rondando a Ilha Verde.jpg"
+        "Imagem": "/livros/Rondando a Ilha Verde.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Museu Carlos Machado: Memória do Convento",
@@ -3945,7 +4334,8 @@ items = [
         "Sub_Categoria": "Museu",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/MemoriaDoConvento.jpg"
+        "Imagem": "/livros/MemoriaDoConvento.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Evolucionismo nos Açores e Outros Estudos",
@@ -3955,7 +4345,8 @@ items = [
         "Sub_Categoria": "Evolucionismo",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Evolucionismo nos Açores e outros Estudos.jpg"
+        "Imagem": "/livros/Evolucionismo nos Açores e outros Estudos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "UAciência: Ciencias da Engenharia, Exatas, Saúde e Biotecnologia, e Sociais e Humanas 2012- 2019",
@@ -3965,7 +4356,8 @@ items = [
         "Sub_Categoria": "Biotecnologia e Engenharia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/UAciência- Ciências da Engenharia, Exatas, Saúde e Biotécnologia, e Sociais e Humanas.jpg"
+        "Imagem": "/livros/UAciência- Ciências da Engenharia, Exatas, Saúde e Biotecnologia, e Sociais e Humanas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "UAciência: Ciencias Naturais e do Ambiente 2012- 2019",
@@ -3975,7 +4367,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/UAciência, Ciências Naturais e do Ambiente.jpg"
+        "Imagem": "/livros/UAciências, Ciências Naturais e do Ambiente.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Fogo Frio: O Vulcão dos Capelinhos",
@@ -3985,7 +4378,8 @@ items = [
         "Sub_Categoria": "Vulcanologia, Sismologia e Geotérmica",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Fogo Frio O vulcão dos Capelinhos.jpg"
+        "Imagem": "/livros/Fogo Frio O vulcão dos Capelinhos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Arquipelago: Life and Marine Sciences, Supplement 11",
@@ -3995,7 +4389,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Arquipelago Life and Marine Sciences Supplement 11.jpg"
+        "Imagem": "/livros/Arquipelago Life and Marine Sciences Supplement 11.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Catálogo das Plantas Vasculares dos Açores",
@@ -4005,7 +4400,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Catálogo das Plantas Vasculares dos Açores.jpg"
+        "Imagem": "/livros/Catálogo das Plantas Vasculares dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Briófitos Raros dos Açores & Azorean Rare Bryophytes",
@@ -4014,7 +4410,9 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Briófitos Raros dos Açores & Azorean Rare Bryophytes.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Ecologia Costeira dos Açores",
@@ -4024,7 +4422,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Ecologia Costeira dos Açores.jpg"
+        "Imagem": "/livros/Ecologia Costeira dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Casa da Luz: Património Industrial da Senhora do Desterro, Serra da Estrela",
@@ -4034,7 +4433,8 @@ items = [
         "Sub_Categoria": "Hist. Cultural de Portugal",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ACasaDaLuz.jpg"
+        "Imagem": "/livros/ACasaDaLuz.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Listagem dos fungos, flora e fauna terrestres dos arquipélagos da Madeira e Selvagens - A list of the terrestrial fungi, flora and fauna of Madeira and Selvagens archipelagos",
@@ -4044,7 +4444,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Listagem dos fungos, flora e fauna terrestres dos arquipélagos da Madeira e Selvagens.jpg"
+        "Imagem": "/livros/Listagem dos fungos, flora e fauna terrestres dos arquipélagos da Madeira e Selvagens.jpg",
+        "Quantidade": 2
     },
     {
         "Titulo": "Albert I do Mónaco, Afonso Chaves e a Meteorologia dos Açores",
@@ -4054,7 +4455,8 @@ items = [
         "Sub_Categoria": "Meteorologia e Hist. Cultural de Mónaco",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AlbertIDoMonacoAfonsoChavesEAMeterologiaNosAcores.jpg"
+        "Imagem": "/livros/AlbertIDoMonacoAfonsoChavesEAMeterologiaNosAcores.jpg",
+        "Quantidade": 3
     },
     {
         "Titulo": "Os fósseis de Santa Maria (Açores)",
@@ -4064,7 +4466,8 @@ items = [
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Os fósseis de Santa Maria (Açores).jpg"
+        "Imagem": "/livros/Os fósseis de Santa Maria (Açores).jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Monte Brasil: Percursos de Interpretação Ambiental",
@@ -4074,7 +4477,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Monte Brasil.jpg"
+        "Imagem": "/livros/Monte Brasil.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Guerra do Ultramar: Caminhando pela Memória e Pela História",
@@ -4084,7 +4488,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/GuerraDoUltramar.jpg"
+        "Imagem": "/livros/GuerraDoUltramar.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Dragoeiros do Museu do Vinho",
@@ -4094,7 +4499,8 @@ items = [
         "Sub_Categoria": "Album de Fotos",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Dragoeiros do Museu do Vinho.jpg"
+        "Imagem": "/livros/Dragoeiros do Museu do Vinho.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Visões Subterrâneas: Fotografias de Jorge Góis",
@@ -4104,7 +4510,8 @@ items = [
         "Sub_Categoria": "Album de Fotos",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Visões Subterrâneas.jpg"
+        "Imagem": "/livros/Visões Subterrâneas.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Caminhos de Ciência",
@@ -4114,7 +4521,8 @@ items = [
         "Sub_Categoria": "Microbiologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Caminhos de Ciência.jpg"
+        "Imagem": "/livros/Caminhos de Ciência.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Mauro e Emília: Os nossos cágados estão em perigo. Vamos ajudá-los! - Mauro y Emília: Nuestras tortugas están en peligro. iVamos a ayudarlas!",
@@ -4124,7 +4532,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Mauro e Emília.jpg"
+        "Imagem": "/livros/Mauro e Emília.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Alfonso Olalla and His Family: The ornithological Exploration of Amazonian Peru",
@@ -4134,7 +4543,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Alfonso Olalla and His Family.jpg"
+        "Imagem": "/livros/Alfonso Olalla and His Family.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Type Specimens of Birds in the American Museum of Natural History: Part 8. Passeriformes",
@@ -4144,7 +4554,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Type Specimens Of Birds in the American Museum of Natural History.jpg"
+        "Imagem": "/livros/Type Specimens Of Birds in the American Museum of Natural History.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "The Basal Penguin (Aves: Spenisciformes): Perudyptes Devriesi and a Phylogenetic Evaluation of the Penguin Fossil Record",
@@ -4154,7 +4565,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/The Basal Penguin.jpg"
+        "Imagem": "/livros/The Basal Penguin.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Pseudotoothed Birds (Aves, Odontopterygiformes) from the Early Tertiary of Morocco",
@@ -4164,7 +4576,8 @@ items = [
         "Sub_Categoria": "Ecologia e Paleontologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/American Museum Novitates.jpg"
+        "Imagem": "/livros/American Museum Novitates.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "As Abelhas dos Açores",
@@ -4174,7 +4587,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/As Abelhas dos Açores.jpg"
+        "Imagem": "/livros/As Abelhas dos Açores.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Genealogias de S. Miguel e Santa Maria Volume 1º",
@@ -4184,7 +4598,8 @@ items = [
         "Sub_Categoria": "Geneologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/GenealogiasDeSMigueleSantaMariaVolume1.jpg"
+        "Imagem": "/livros/GenealogiasDeSMiguelESantaMariaVolume1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Scientia Marina: Volume 75, Number 3",
@@ -4194,7 +4609,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Scientia Marina Volume 75 Number 3.jpg"
+        "Imagem": "/livros/Scientia Marina Volume 75 Number 3.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Scientia Marina: Volume 75, Number 2",
@@ -4204,7 +4620,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Scientia Marina Volume 75 Number 2.jpg"
+        "Imagem": "/livros/Scientia Marina Volume 75 Number 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Scientia Marina: Volume 75, Number 1",
@@ -4214,7 +4631,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Scientia Marina Volume 75 Number 1.jpg"
+        "Imagem": "/livros/Scientia Marina Volume 75 Number 1.jpg",
+        "Quantidade": 1
 
     },
     {
@@ -4225,7 +4643,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Scientia Marina Volume 74S1 Supplement 1.jpg"
+        "Imagem": "/livros/Scientia Marina Volume 74S1 Supplement 1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Scientia Marina: Volume 74, Number 4",
@@ -4235,7 +4654,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Scientia Marina Volume 74 Number 4.jpg"
+        "Imagem": "/livros/Scientia Marina Volume 74 Number 4.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Scientia Marina: Volume 69, Number 3",
@@ -4245,7 +4665,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Scientia Marina Volume 69 Number 3.jpg"
+        "Imagem": "/livros/Scientia Marina Volume 69 Number 3.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Scientia Marina: Volume 69, Supplement 1",
@@ -4255,7 +4676,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Scientia Marina Volume 69 Supplement 1.jpg"
+        "Imagem": "/livros/Scientia Marina Volume 69 Supplement 1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Scientia Marina: Volume 68, Number 1",
@@ -4265,7 +4687,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Scientia Marina Volume 68 Number 1.jpg"
+        "Imagem": "/livros/Scientia Marina Volume 68 Number 1.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Scientia Marina: Volume 66, Number 4",
@@ -4275,7 +4698,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Scientia Marina Volume 66 Number 4.jpg"
+        "Imagem": "/livros/Scientia Marina Volume 66 Number 4.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Scientia Marina: Volume 66, Supplement 2",
@@ -4285,7 +4709,8 @@ items = [
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Scientia Marina Volume 66 Supplement 2.jpg"
+        "Imagem": "/livros/Scientia Marina Volume 66 Supplement 2.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Viagens e diálogos epistolares na construção científica do mundo atlântico: Albert I do Mónaco, Afonso Chaves, Meteorologia nos Açores.",
@@ -4295,7 +4720,8 @@ items = [
         "Sub_Categoria": "Meteorologia e Hist. Cultural de Mónaco",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ViagensEDialogosEpistolaresNaConstrucaoCientificaDoMundoAtlantido.jpg"
+        "Imagem": "/livros/ViagensEDialogosEpistolaresNaConstrucaoCientificaDoMundoAtlantico.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Bulletin de L'Institut Royal Des Sciences Naturelles De Belgique - Bulletin Van Het Koninklijk, Belgisch Instituut Voor Natuurwetenschappen",
@@ -4305,7 +4731,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Espanhol e Alemão",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Bulletin de L'Institut Royal Des Sciences Naturelles de Belgique.jpg"
+        "Imagem": "/livros/Bulletin de L'Institut Royal Des Sciences Naturelles de Belgique.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Castanha na Mesa de Bragança",
@@ -4315,7 +4742,8 @@ items = [
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/A Castanha na Mesa de Bragança.jpg"
+        "Imagem": "/livros/A Castanha na Mesa de Bragança.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. XI - Fasc. IV",
@@ -4325,7 +4753,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascIV.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Exploring the marine meiofauna of the Azores - Suplemento 11",
@@ -4335,7 +4764,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento11.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento11.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. XI - Fasc.III",
@@ -4345,7 +4775,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascIII.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: The marine fauna and flora of the Açores",
@@ -4355,7 +4786,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento10.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento10.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Eleventh international symposium of neuropterology",
@@ -4365,7 +4797,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento9.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento9.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Supplemento 8",
@@ -4375,7 +4808,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento8.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento8.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Supplemento 7",
@@ -4385,7 +4819,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento7.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento7.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Supplemento 5",
@@ -4395,7 +4830,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento5.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento5.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: The Marine Fauna and Flora of the Azores - Second International Workshop",
@@ -4405,7 +4841,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSuplemento1995.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSuplemento1995.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Centenaire de la Derniere Campagne Oceanographique du Prince Albert de Monaco aux Açores à bord de L'Hirondelle",
@@ -4415,7 +4852,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento1992.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento1992.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: The Marine Fauna and Flora of the Azores - First International Workshop",
@@ -4425,7 +4863,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento1990.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosSupplemento1990.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. XI - Fasc. II",
@@ -4435,7 +4874,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascII.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. XI - Fasc. I",
@@ -4445,7 +4885,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascI.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXIFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. X - Fasc. IV",
@@ -4455,7 +4896,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascIV.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos: Vol. X - Fasc. III",
@@ -4465,7 +4907,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascIII.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. X - Fasc. II",
@@ -4475,7 +4918,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascII.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. X - Fasc. I",
@@ -4485,7 +4929,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascI.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolXFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. IX - Fasc. IV",
@@ -4495,7 +4940,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascIV.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. IX - Fasc. III",
@@ -4505,7 +4951,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascIII.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. IX - Fasc. II",
@@ -4515,7 +4962,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascII.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Revista de Estudos Açoreanos:  Vol. IX - Fasc. I",
@@ -4525,7 +4973,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascI.jpg"
+        "Imagem": "/livros/AçoreanaRevistaDeEstudosAcoreanosVolIXFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VIII - Fasc. IV",
@@ -4535,7 +4984,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIIIFascIV.jpg"
+        "Imagem": "/livros/AçoreanaVolVIIIFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VIII - Fasc. III",
@@ -4545,7 +4995,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIIIFascIII.jpg"
+        "Imagem": "/livros/AçoreanaVolVIIIFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VIII - Fasc. II",
@@ -4555,7 +5006,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIIIFascII.jpg"
+        "Imagem": "/livros/AçoreanaVolVIIIFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VIII - Fasc. I",
@@ -4565,7 +5017,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIIIFascI.jpg"
+        "Imagem": "/livros/AçoreanaVolVIIIFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VII - Fasc. IV",
@@ -4575,7 +5028,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIIFascIV.jpg"
+        "Imagem": "/livros/AçoreanaVolVIIFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VII - Fasc. III",
@@ -4585,7 +5039,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIIFascIII.jpg"
+        "Imagem": "/livros/AçoreanaVolVIIFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VII - Fasc. II",
@@ -4595,7 +5050,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIIFascII.jpg"
+        "Imagem": "/livros/AçoreanaVolVIIFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VII - Fasc. I",
@@ -4605,7 +5061,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIIFascI.jpg"
+        "Imagem": "/livros/AçoreanaVolVIIFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vo. VI - Fasc. IV",
@@ -4615,7 +5072,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIFascIV.jpg"
+        "Imagem": "/livros/AçoreanaVolVIFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VI - Fasc. III",
@@ -4625,7 +5083,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIFascIII.jpg"
+        "Imagem": "/livros/AçoreanaVolVIFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VI - Fasc. II",
@@ -4635,7 +5094,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIFascII.jpg"
+        "Imagem": "/livros/AçoreanaVolVIFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. VI - Fasc.I ",
@@ -4645,7 +5105,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVIFascI.jpg"
+        "Imagem": "/livros/AçoreanaVolVIFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. V - Fasc. IV",
@@ -4655,7 +5116,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVFascIV.jpg"
+        "Imagem": "/livros/AçoreanaVolVFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. V - Fasc. III",
@@ -4665,7 +5127,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVFascIII.jpg"
+        "Imagem": "/livros/AçoreanaVolVFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. V - Fasc. II",
@@ -4675,7 +5138,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVFascII.jpg"
+        "Imagem": "/livros/AçoreanaVolVFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. V - Fasc. I",
@@ -4685,7 +5149,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolVFascI.jpg"
+        "Imagem": "/livros/AçoreanaVolVFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. IV - Fasc. IV",
@@ -4695,7 +5160,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIVFascIV.jpg"
+        "Imagem": "/livros/AçoreanaVolIVFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. IV - Fasc. III",
@@ -4705,7 +5171,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português, Inglês e Francês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIVFascIII.jpg"
+        "Imagem": "/livros/AçoreanaVolIVFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. IV - Fasc. II",
@@ -4715,7 +5182,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIVFascII.jpg"
+        "Imagem": "/livros/AçoreanaVolIVFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. IV - Fasc. I",
@@ -4725,7 +5193,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Francês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIVFascI.jpg"
+        "Imagem": "/livros/AçoreanaVolIVFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. III - Fasc. IV",
@@ -4735,7 +5204,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIIIFascIV.jpg"
+        "Imagem": "/livros/AçoreanaVolIIIFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. III - Fasc. III",
@@ -4745,7 +5215,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIIIFascIII.jpg"
+        "Imagem": "/livros/AçoreanaVolIIIFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. III - Fasc. II",
@@ -4755,7 +5226,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIIIFascII.jpg"
+        "Imagem": "/livros/AçoreanaVolIIIFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. III - Fasc. I",
@@ -4765,7 +5237,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIIIFascI.jpg"
+        "Imagem": "/livros/AçoreanaVolIIIFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. II - Fasc. IV",
@@ -4775,7 +5248,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIIFascIV.jpg"
+        "Imagem": "/livros/AçoreanaVolIIFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. II - Fasc. III",
@@ -4785,7 +5259,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIIFascIII.jpg"
+        "Imagem": "/livros/AçoreanaVolIIFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. II - Fasc. II",
@@ -4795,7 +5270,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIIFascII.jpg"
+        "Imagem": "/livros/AçoreanaVolIIFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. II - Fasc. I",
@@ -4805,7 +5281,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIIFascI.jpg"
+        "Imagem": "/livros/AçoreanaVolIIFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. I - Fasc. IV",
@@ -4815,7 +5292,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIFascIV.jpg"
+        "Imagem": "/livros/AçoreanaVolIFascIV.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. I - Fasc. III",
@@ -4825,7 +5303,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIFascIII.jpg"
+        "Imagem": "/livros/AçoreanaVolIFascIII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. I - Fasc. II",
@@ -4835,7 +5314,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIFascII.jpg"
+        "Imagem": "/livros/AçoreanaVolIFascII.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Açoreana: Vol. I - Fasc. I",
@@ -4845,7 +5325,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AçoreanaVolIFascI.jpg"
+        "Imagem": "/livros/AçoreanaVolIFascI.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Haja Luz! Uma história da química através de tudo",
@@ -4855,7 +5336,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/HajaLuz.jpg"
+        "Imagem": "/livros/HajaLuz.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Arquipelago: Life Marine Sciences",
@@ -4865,7 +5347,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ArquipelagoLifeAndMarineSciences.jpg"
+        "Imagem": "/livros/ArquipelagoLifeAndMarineSciences.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Bragança, um território para conquistar",
@@ -4875,7 +5358,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Bragança.jpg"
+        "Imagem": "/livros/Bragança.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Paisagem da cultura da vinha da ilha do Pico ",
@@ -4885,7 +5369,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Pico.jpg"
+        "Imagem": "/livros/Pico.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Azores a natural portrait",
@@ -4895,7 +5380,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/AzoresANaturalPortrait.jpg"
+        "Imagem": "/livros/AzoresANaturalPortrait.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Insect: Discover the busy and intriguing world of insects - their structure, life-history, and fascinating variety",
@@ -4905,7 +5391,8 @@ items = [
         "Sub_Categoria": "Entomologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/Insect.jpg"
+        "Imagem": "/livros/Insect.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "DragonFlies",
@@ -4915,7 +5402,8 @@ items = [
         "Sub_Categoria": "Album de Fotos",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/DragonFlies.jpg"
+        "Imagem": "/livros/DragonFlies.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Vulcão dos Capelinhos memórias 1957-2007",
@@ -4925,7 +5413,8 @@ items = [
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/VulcaoDosCapelinhos.jpg"
+        "Imagem": "/livros/VulcaoDosCapelinhos.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "Na Rota dos Vulcões da Ilha do Faial",
@@ -4935,7 +5424,8 @@ items = [
         "Sub_Categoria": "Geomorfologia, Vulcanologia e Petrologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/NaRotadosVulcoesDaIlhaDoFaial.jpg"
+        "Imagem": "/livros/NaRotaDosVulcoesDaIlhaDoFaial.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Diversidade na Orla Costeira: Da Caloura a Ponta Garça",
@@ -4945,7 +5435,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ADiversidadeNaOrlaCosteiraDaCalouraAPontaGarca.jpg"
+        "Imagem": "/livros/ADiversidadeNaOrlaCosteiraDaCalouraAPontaGarca.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Diversidade na Orla Costeira: São Roque a Santa Cruz da Lagoa",
@@ -4955,7 +5446,8 @@ items = [
         "Sub_Categoria": "Geobiológica e Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/DiversidadeNaOrlaCosteiraSaoRoqueASantaCruzDaLagoa.jpg"
+        "Imagem": "/livros/DiversidadeNaOrlaCosteiraSaoRoqueASantaCruzDaLagoa.jpg",
+        "Quantidade": 1
     },
     {
         "Titulo": "A Diversidade na Orla Costeira: Da Ribeira Quente ao Faial da Terra",
@@ -4965,7 +5457,8 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/ADiversidadeNaOrlaCosteiraDaRibeiraQuenteAoFaialDaTerra.jpg"
+        "Imagem": "/livros/ADiversidadeNaOrlaCosteiraDaRibeiraQuenteAoFaialDaTerra.jpg",
+        "Quantidade": 1
     },
 ]
 
@@ -4996,9 +5489,29 @@ def index():
                 filtered_items = [item for item in filtered_items if item['Ano'] == Ano_filter]
             except ValueError:
                 pass
+    count = len(filtered_items)
 
+    if 'add_book' in request.form:
+            novo_livro = {
+                "Titulo": request.form['Titulo'],
+                "Autor": request.form['Autor'],
+                "Ano": int(request.form['Ano']),
+                "Categoria": request.form['Categoria'],
+                "Sub_Categoria": request.form['Sub_Categoria'],
+                "Linguagem": request.form['Linguagem'],
+                "Material": request.form['Material'],
+                "Imagem": request.form['Imagem'],
+                "Quantidade": int(request.form['Quantidade'])
+            }
+            items.append(novo_livro)
+        
+        # Atualizar quantidade em stock de um livro existente
+    elif 'update_stock' in request.form:
+        livro_index = int(request.form['livro_index'])
+        nova_quantidade = int(request.form['nova_quantidade'])
+        items[livro_index]['Quantidade'] += nova_quantidade
 
-    return render_template('index.html', items=filtered_items)
+    return render_template('index.html', filtered_items=filtered_items, items=filtered_items, count=count)
 
 @app.route('/livro/<titulo>')
 def livro_detalhes(titulo):
@@ -5007,3 +5520,21 @@ def livro_detalhes(titulo):
         return render_template('livro_detalhes.html', livro=livro)
     else:
         return "Livro não encontrado", 404
+
+@app.route('/home', methods=['GET', 'POST'])
+def home():
+    if request.method == 'POST':
+        # Lógica para tratar dados do formulário enviado via POST
+        pass
+
+    # Renderiza o template 'home.html' quando a requisição é GET ou após processar um POST
+    return render_template('home.html')
+
+@app.route('/quantidades', methods=['GET', 'POST'])
+def quantidades():
+    if request.method == 'POST':
+        # Lógica para tratar dados do formulário enviado via POST
+        pass
+
+    # Renderiza o template 'home.html' quando a requisição é GET ou após processar um POST
+    return render_template('quantidades.html')
