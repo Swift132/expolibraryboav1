@@ -39,7 +39,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXIII.jpg"
     },
     {
         "Titulo": "Revista de La Academia Canaria de Ciencias - Volumen XXXIV",
@@ -48,7 +49,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Multi idiomas",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/RevistaDeLaAcademiaCanariaDeCienciasVolumenXXIV.jpg"
     },
     {
         "Titulo": "Boletim Da Sociedade Broteriana - Volume LI - 2ª série, 51",
@@ -1316,7 +1318,8 @@ items = [
         "Categoria": "Fotografia",
         "Sub_Categoria": "NaN",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Ten Years - Ten Protraits.jpg"
     },
     {
         "Titulo": "Um Mar Cheio de Vida - A Sea Full of Life",
@@ -1463,7 +1466,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/TowardsPlanningOfSeafloorObservatoryProgramsForTheMarRegion.jpg"
     },
     {
         "Titulo": "Fauna and Flora of the Atlantic Islands - Proceedings of the 3rd symposium - Part A - Arquipélago - Life and Marine Sciences Supplement 2 ",
@@ -1542,7 +1546,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/TheVolcanoesOfAzoresIslandsAWorldClassHeritage.jpg"
     },
     {
         "Titulo": "Os Últimos Priolos - The Last Azores Bullfinches",
@@ -1662,7 +1667,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Paleontologia",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/TaviraGuiaDeGeologiaePaleontologiaUrbana.jpg"
     },
     {
         "Titulo": "Aves Peixes Mamíferos",
@@ -1761,7 +1767,8 @@ items = [
         "Categoria": "Entrevista",
         "Sub_Categoria": "NaN",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Together 2018.jpg"
     },
     {
         "Titulo": "Rising Tide",
@@ -1770,7 +1777,8 @@ items = [
         "Categoria": "Entrevista",
         "Sub_Categoria": "NaN",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Rising Tide 2017.jpg"
     },
     {
         "Titulo": "Geodiversidade, Valores e Usos",
@@ -1929,7 +1937,8 @@ items = [
         "Categoria": "Revista",
         "Sub_Categoria": "NaN",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Showbiz Culture Backstage.jpg"
     },
     {
         "Titulo": "A evolução de Darwin",
@@ -2039,7 +2048,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Robots.jpg"
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Mapas e Cartas",
@@ -2088,7 +2098,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/TerrasPolares.jpg"
     },
     {
         "Titulo": "Enciclopédia Temática Educativa: Disfarce dos Animais",
@@ -2444,7 +2455,8 @@ items = [
         "Categoria": "Físico-Química",
         "Sub_Categoria": "Manual Escolar",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Terra Mãe CFQ - Sustentabilidade na Terra.jpg"
     },
     {
         "Titulo": "6º Ano Matemática Convida: Parte 1",
@@ -2713,7 +2725,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Solar de Santa Catarina.jpg"
     },
     {
         "Titulo": "Histórias, Conversas e Lengalengas",
@@ -2861,7 +2874,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/TinTimOsCharutosDoFarao.jpg"
     },
     {
         "Titulo": "Uma Aventura de Astérix o Gavlês: O Dominio dos Deuses",
@@ -2969,7 +2983,8 @@ items = [
         "Categoria": "Ciências e tecnologia",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Tudo ao Contrário.jpg"
     },
     {
         "Titulo": "Lagoas e lagoeiros da ilha de São Miguel",
@@ -3307,7 +3322,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "NaN",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Tudo Pode ser Divertido.jpg"
     },
     {
         "Titulo": "Os contos do tio patinhas: O alfaiate valentão",
@@ -3366,7 +3382,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português e Espanhol",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/TOP 100.jpg"
     },
     {
         "Titulo": "Corvo: Biosphere Reserve Proposal",
@@ -3573,7 +3590,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/SaoMiguelAIlhaVerde.jpg"
     },
     {
         "Titulo": "Priolo.",
@@ -3820,7 +3838,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Térmicas dos Açores.jpg"
     },
     {
         "Titulo": "Guia do Munícipe Ambientalista",
@@ -3869,7 +3888,8 @@ items = [
         "Categoria": "Turismo",
         "Sub_Categoria": "Turismo Rural",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Turismo e Desenvolvimento Sustentável 1.jpg"
     },
     {
         "Titulo": "Turismo e Desenvolvimento Sustentável 2",
@@ -3901,13 +3921,14 @@ items = [
         "Imagem": "/livros/Mística e Nuvens do Vulcão do Pico.jpg"
     },
     {
-        "Titulo": "Rodando a Ilha Verde: S. Miguel - Açores",
+        "Titulo": "Rondando a Ilha Verde: S. Miguel - Açores",
         "Autor": "Paula Simões e Carlos Garcia",
         "Ano": "NaN",
         "Categoria": "História",
         "Sub_Categoria": "Album de Fotos",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Rondando a Ilha Verde.jpg"
     },
     {
         "Titulo": "Museu Carlos Machado: Memória do Convento",
@@ -4122,7 +4143,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/The Basal Penguin.jpg"
     },
     {
         "Titulo": "Pseudotoothed Birds (Aves, Odontopterygiformes) from the Early Tertiary of Morocco",
@@ -4160,25 +4182,18 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
-    },
-    {
-        "Titulo": "NaN",
-        "Autor": "R. Real, A. Nebra, N. Caiola and C. Ibáñez, F. Uiblein,  P.C. Heemstra, A. Orfila, S. Balle and G. Simarro S.  Somarakis, S. Isari and A. Machias.",
-        "Ano": "NaN",
-        "Categoria": "NaN",
-        "Sub_Categoria": "NaN",
-        "Linguagem": "NaN",
-        "Material": "NaN",
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Scientia Marina Volume 75 Number 3.jpg"
     },
     {
         "Titulo": "Scientia Marina: Volume 75, Number 2",
-        "Autor":"NaN",
+        "Autor": "R. Real, A. Nebra, N. Caiola and C. Ibáñez, F. Uiblein,  P.C. Heemstra, A. Orfila, S. Balle and G. Simarro S.  Somarakis, S. Isari and A. Machias.",
         "Ano": 2011,
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Scientia Marina Volume 75 Number 2.jpg"
     },
     {
         "Titulo": "Scientia Marina: Volume 75, Number 1",
@@ -4187,7 +4202,9 @@ items = [
         "Categoria": "biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Scientia Marina Volume 75 Number 1.jpg"
+
     },
     {
         "Titulo": "Scientia Marina: Volume 74S1, Supplement 1",
@@ -4196,7 +4213,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Scientia Marina Volume 74S1 Supplement 1.jpg"
     },
     {
         "Titulo": "Scientia Marina: Volume 74, Number 4",
@@ -4205,7 +4223,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Scientia Marina Volume 74 Number 4.jpg"
     },
     {
         "Titulo": "Scientia Marina: Volume 69, Number 3",
@@ -4214,7 +4233,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Scientia Marina Volume 69 Number 3.jpg"
     },
     {
         "Titulo": "Scientia Marina: Volume 69, Supplement 1",
@@ -4223,7 +4243,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Scientia Marina Volume 69 Supplement 1.jpg"
     },
     {
         "Titulo": "Scientia Marina: Volume 68, Number 1",
@@ -4232,7 +4253,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Scientia Marina Volume 68 Number 1.jpg"
     },
     {
         "Titulo": "Scientia Marina: Volume 66, Number 4",
@@ -4241,7 +4263,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Scientia Marina Volume 66 Number 4.jpg"
     },
     {
         "Titulo": "Scientia Marina: Volume 66, Supplement 2",
@@ -4250,7 +4273,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Biologia Marinha",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Scientia Marina Volume 66 Supplement 2.jpg"
     },
     {
         "Titulo": "Viagens e diálogos epistolares na construção científica do mundo atlântico: Albert I do Mónaco, Afonso Chaves, Meteorologia nos Açores.",
