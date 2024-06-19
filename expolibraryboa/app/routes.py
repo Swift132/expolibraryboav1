@@ -1328,7 +1328,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/UmMarCheiodeVidaVisoesdosAcores.jpg"
     },
     {
         "Titulo": "Guia de História Natural da Ilha do Pico - Pico Island Natural History Hanbook",
@@ -1347,7 +1348,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/UmBosquePertoDeSi.jpg"
     },
     {
         "Titulo": "O mundo de Gaspar Frutuoso",
@@ -2855,7 +2857,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/UmaAventuraEstaminal.jpg"
     },
     {
         "Titulo": "O Corcunda de Notre Dame",
@@ -2884,7 +2887,8 @@ items = [
         "Categoria": "Infantil",
         "Sub_Categoria": "Banda Desenhada",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/UmaAventuraDeAsterixOGavlesODominioDosDeuses.jpg"
     },
     {
         "Titulo": "Grandes Ilustradores da Escola Russa: Os mais belos contos de Andersen",
@@ -3512,7 +3516,8 @@ items = [
         "Categoria": "Vulcanologia",
         "Sub_Categoria": "Hist. Cultural dos Açores",
         "Linguagem": "Português e Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Vulcão das Sete Cidades, Volcano.jpg"
     },
     {
         "Titulo": "Our Ocean - Marine Legends, Fairy Tales and Folklore in Ireland",
@@ -3541,7 +3546,8 @@ items = [
         "Categoria": "História",
         "Sub_Categoria": "Hist. Cultural de Portugal com a Britânia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/UmToqueDecisivo.jpg"
     },
     {
         "Titulo": "Lisboa, O Descobrimento do Mundo e Fernão de Magalhães",
@@ -3898,7 +3904,8 @@ items = [
         "Categoria": "Turismo",
         "Sub_Categoria": "Turismo Rural",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Turismo e Desenvolvimento Sustentável 2.jpg"
     },
     {
         "Titulo": "Gestão do Litoral e Cidadania Ambiental",
@@ -3957,7 +3964,8 @@ items = [
         "Categoria": "Tecnologia",
         "Sub_Categoria": "Biotecnologia e Engenharia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/UAciência- Ciências da Engenharia, Exatas, Saúde e Biotécnologia, e Sociais e Humanas.jpg"
     },
     {
         "Titulo": "UAciência: Ciencias Naturais e do Ambiente 2012- 2019",
@@ -3966,7 +3974,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/UAciência, Ciências Naturais e do Ambiente.jpg"
     },
     {
         "Titulo": "Fogo Frio: O Vulcão dos Capelinhos",
@@ -4094,7 +4103,8 @@ items = [
         "Categoria": "Geologia",
         "Sub_Categoria": "Album de Fotos",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/Visões Subterrâneas.jpg"
     },
     {
         "Titulo": "Caminhos de Ciência",
@@ -4134,7 +4144,7 @@ items = [
         "Sub_Categoria": "Ecologia",
         "Linguagem": "Inglês",
         "Material": "Não Plastificado",
-        "Imagem": "/livros/American Museum Novitates.jpg"
+        "Imagem": "/livros/Type Specimens Of Birds in the American Museum of Natural History.jpg"
     },
     {
         "Titulo": "The Basal Penguin (Aves: Spenisciformes): Perudyptes Devriesi and a Phylogenetic Evaluation of the Penguin Fossil Record",
@@ -4153,7 +4163,8 @@ items = [
         "Categoria": "Biologia",
         "Sub_Categoria": "Ecologia e Paleontologia",
         "Linguagem": "Inglês",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/American Museum Novitates.jpg"
     },
     {
         "Titulo": "As Abelhas dos Açores",
@@ -4283,7 +4294,8 @@ items = [
         "Categoria": "História e Geologia",
         "Sub_Categoria": "Meteorologia e Hist. Cultural de Mónaco",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/ViagensEDialogosEpistolaresNaConstrucaoCientificaDoMundoAtlantido.jpg"
     },
     {
         "Titulo": "Bulletin de L'Institut Royal Des Sciences Naturelles De Belgique - Bulletin Van Het Koninklijk, Belgisch Instituut Voor Natuurwetenschappen",
@@ -4912,7 +4924,8 @@ items = [
         "Categoria": "Cultura",
         "Sub_Categoria": "Revista",
         "Linguagem": "Português",
-        "Material": "Não Plastificado"
+        "Material": "Não Plastificado",
+        "Imagem": "/livros/VulcaoDosCapelinhos.jpg"
     },
     {
         "Titulo": "Na Rota dos Vulcões da Ilha do Faial",
